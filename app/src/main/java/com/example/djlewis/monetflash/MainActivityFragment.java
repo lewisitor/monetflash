@@ -1,16 +1,22 @@
 package com.example.djlewis.monetflash;
 
+import android.content.Context;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.telephony.TelephonyManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.google.gson.JsonObject;
+import com.koushikdutta.async.future.FutureCallback;
 import com.koushikdutta.ion.Ion;
 
+import cn.pedant.SweetAlert.SweetAlertDialog;
 import mehdi.sakout.fancybuttons.FancyButton;
 import utility.Utility;
 
@@ -119,8 +125,49 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             break;
             //payButton action
             case R.id.buttonpay: {
-                //start async request to request for payment
-                Ion.with(this).load("GET", "");
+                //get subscriber's phone number
+                TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
+
+                String clientphone = telephonyManager.getLine1Number();
+                if (clientphone != null){
+                    String clientname = PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_USER,"Unknown Business");
+                    final SweetAlertDialog sw = Utility.getInstance(getActivity())
+                            .startPaymentDialog(getActivity().getString(R.string.paymentmessage));
+                    sw.show();
+                    String amount = paymentAmount.getText().toString().equals("")?"0":paymentAmount.getText().toString();
+                    String customer = phoneNumber.getText().toString().equals("")?"0":phoneNumber.getText().toString();
+                    //start async request to request for payment
+                    Ion.with(this)
+                            .load(Utility.PAYMENT_URL)
+                            .setBodyParameter("client_name", clientname)
+                            .setBodyParameter("client", clientphone)
+                            .setBodyParameter("amount", String.valueOf(Integer.parseInt(amount)))
+                            .setBodyParameter("customer", String.valueOf(Integer.parseInt(customer)))
+                            .asJsonObject()
+                            .setCallback(new FutureCallback<JsonObject>() {
+                                @Override
+                                public void onCompleted(Exception e, JsonObject result) {
+                                    if (e == null) {
+                                        //show message
+                                        String message ="";
+                                        int status = result.get("statuscode").getAsInt();
+                                        String msg = result.get("message").getAsString();
+
+                                        message = status != 401? getContext().getString(R.string.paymentsuccess):
+                                        getContext().getString(R.string.paymentfailed, msg);
+
+                                        Utility.getInstance(getActivity()).stopPaymentDialog(sw, message, status!=401);
+                                    }else{
+                                        //stop the sweetdialog and clear fields
+                                        String message = getContext().getString(R.string.paymentfailed, e.getLocalizedMessage());
+                                        Utility.getInstance(getActivity()).stopPaymentDialog(sw, message, false);
+                                    }
+                                }
+                            });
+            }
+                else{
+                    Utility.getInstance(getActivity()).showMessage(rootView, getActivity().getString(R.string.numbernotavailable));
+                }
             }
             break;
             case R.id.buttonOne:{

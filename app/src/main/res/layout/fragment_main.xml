@@ -106,7 +106,7 @@
                 android:id="@+id/buttonNext"
                 android:layout_margin="@dimen/design_fab_elevation"
                 android:background="@drawable/rounded_button_danger"
-                android:foreground="@drawable/ic_next" />
+                android:foreground="@drawable/next" />
         </LinearLayout>
         <LinearLayout
             android:orientation="horizontal"
@@ -204,7 +204,7 @@
                 android:textSize="20sp"
                 android:id="@+id/buttonCancel"
                 android:layout_margin="@dimen/design_fab_elevation"
-                android:foreground="@drawable/ic_erase" />
+                android:foreground="@drawable/backspace" />
         </LinearLayout>
         <LinearLayout
             android:orientation="horizontal"

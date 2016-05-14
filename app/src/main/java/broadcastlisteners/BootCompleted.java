@@ -15,7 +15,9 @@ public class BootCompleted extends BroadcastReceiver {
         //boot has been completed, start welcome activity
         String action = intent.getAction();
         if (action == Intent.ACTION_BOOT_COMPLETED){
-            context.startActivity(new Intent(context, WelcomeActivity.class));
+            Intent mainintent = new Intent(context, WelcomeActivity.class);
+            mainintent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            context.startActivity(mainintent);
         }
     }
 }
