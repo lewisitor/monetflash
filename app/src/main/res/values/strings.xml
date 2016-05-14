@@ -12,8 +12,8 @@
     <string name="Sigup">Setup Payment</string>
     <string name="numbernotavailable">Business Phone Number unavailable</string>
     <string name="startpayment">Making payment</string>
-    <string name="paymentmessage">Payment request is bein made. Please use your mobile and authenticate within 2 minutes. Funds may be requested by FurtherMarket</string>
+    <string name="paymentmessage">Payment request is being made. Please use your mobile and authenticate within 2 minutes. Funds may be requested by FurtherMarket</string>
     <string name="finished">Payment Status</string>
-    <string name="paymentfailed">Payment Failed. Try again. %s</string>
+    <string name="paymentfailed">Payment Failed. %s</string>
     <string name="paymentsuccess">Payment Received Successfully</string>
 </resources>

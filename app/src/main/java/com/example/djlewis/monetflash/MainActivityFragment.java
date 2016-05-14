@@ -142,7 +142,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                             .setBodyParameter("client_name", clientname)
                             .setBodyParameter("client", clientphone)
                             .setBodyParameter("amount", String.valueOf(Integer.parseInt(amount)))
-                            .setBodyParameter("customer", String.valueOf(Integer.parseInt(customer)))
+                            .setBodyParameter("customer", String.valueOf(Long.parseLong(customer)))
                             .asJsonObject()
                             .setCallback(new FutureCallback<JsonObject>() {
                                 @Override
