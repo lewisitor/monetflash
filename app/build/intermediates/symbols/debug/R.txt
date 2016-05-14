@@ -680,6 +680,7 @@ int id action_settings 0x7f0c00a9
 int id activity_chooser_view_content 0x7f0c0040
 int id alertTitle 0x7f0c004c
 int id always 0x7f0c0033
+int id amountEditText 0x7f0c008e
 int id beginning 0x7f0c0031
 int id bottom 0x7f0c001d
 int id businessNameeditText 0x7f0c0070
@@ -723,8 +724,6 @@ int id design_menu_item_text 0x7f0c0088
 int id design_navigation_view 0x7f0c0087
 int id disableHome 0x7f0c000e
 int id displayLayout 0x7f0c008c
-int id editText 0x7f0c008d
-int id editText2 0x7f0c008e
 int id edit_query 0x7f0c005f
 int id end 0x7f0c0021
 int id end_padder 0x7f0c00a8
@@ -767,6 +766,7 @@ int id none 0x7f0c0010
 int id normal 0x7f0c000c
 int id parallax 0x7f0c001b
 int id parentPanel 0x7f0c0049
+int id phoneEditText 0x7f0c008d
 int id pin 0x7f0c001c
 int id progressWheel 0x7f0c007c
 int id progress_circular 0x7f0c0006

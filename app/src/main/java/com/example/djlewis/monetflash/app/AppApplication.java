@@ -1,3 +1,5 @@
+package com.example.djlewis.monetflash.app;
+
 import android.app.Application;
 
 import com.firebase.client.Firebase;

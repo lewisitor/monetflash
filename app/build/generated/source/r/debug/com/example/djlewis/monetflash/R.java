@@ -2700,6 +2700,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f0c0040;
         public static final int alertTitle=0x7f0c004c;
         public static final int always=0x7f0c0033;
+        public static final int amountEditText=0x7f0c008e;
         public static final int beginning=0x7f0c0031;
         public static final int bottom=0x7f0c001d;
         public static final int businessNameeditText=0x7f0c0070;
@@ -2743,8 +2744,6 @@ containing a value of this type.
         public static final int design_navigation_view=0x7f0c0087;
         public static final int disableHome=0x7f0c000e;
         public static final int displayLayout=0x7f0c008c;
-        public static final int editText=0x7f0c008d;
-        public static final int editText2=0x7f0c008e;
         public static final int edit_query=0x7f0c005f;
         public static final int end=0x7f0c0021;
         public static final int end_padder=0x7f0c00a8;
@@ -2787,6 +2786,7 @@ containing a value of this type.
         public static final int normal=0x7f0c000c;
         public static final int parallax=0x7f0c001b;
         public static final int parentPanel=0x7f0c0049;
+        public static final int phoneEditText=0x7f0c008d;
         public static final int pin=0x7f0c001c;
         public static final int progressWheel=0x7f0c007c;
         public static final int progress_circular=0x7f0c0006;
