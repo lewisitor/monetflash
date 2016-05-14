@@ -9,7 +9,10 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.koushikdutta.ion.Ion;
+
 import mehdi.sakout.fancybuttons.FancyButton;
+import utility.Utility;
 
 /**
  * A placeholder fragment containing a simple view.
@@ -31,8 +34,29 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         rootView = inflater.inflate(R.layout.fragment_main, container, false);
+        //buttons
         buttonBack = (Button) rootView.findViewById(R.id.buttonNext);
         buttonCancel = (Button) rootView.findViewById(R.id.buttonCancel);
+        buttonPay = (FancyButton) rootView.findViewById(R.id.buttonpay);
+        bOne = (Button) rootView.findViewById(R.id.buttonOne); bOne.setOnClickListener(this);
+        bTwo = (Button) rootView.findViewById(R.id.buttonTwo); bTwo.setOnClickListener(this);
+        bThree = (Button) rootView.findViewById(R.id.buttonThree); bThree.setOnClickListener(this);
+        bFour = (Button) rootView.findViewById(R.id.buttonFour); bFour.setOnClickListener(this);
+        bFive = (Button) rootView.findViewById(R.id.buttonFive); bFive.setOnClickListener(this);
+        bSix = (Button) rootView.findViewById(R.id.buttonSix); bSix.setOnClickListener(this);
+        bSeven = (Button) rootView.findViewById(R.id.buttonSeven); bSeven.setOnClickListener(this);
+        bEight = (Button) rootView.findViewById(R.id.buttonEight); bEight.setOnClickListener(this);
+        bNine = (Button) rootView.findViewById(R.id.buttonNine); bNine.setOnClickListener(this);
+        bZero = (Button) rootView.findViewById(R.id.buttonZero); bZero.setOnClickListener(this);
+        //editTexts
+        phoneNumber = (EditText) rootView.findViewById(R.id.phoneEditText);
+        paymentAmount = (EditText) rootView.findViewById(R.id.amountEditText);
+        phoneNumber.setFocusable(true);
+        paymentAmount.setFocusable(true);
+
+        buttonCancel.setOnClickListener(this);
+        buttonPay.setOnClickListener(this);
+        buttonBack.setOnClickListener(this);
 
         return rootView;
     }
@@ -49,6 +73,10 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
+        if (outState != null){
+            outState.putString(Utility.PHONE_KEY, phoneNumber.getText().toString());
+            outState.putString(Utility.AMOUNT_KEY, paymentAmount.getText().toString());
+        }
         super.onSaveInstanceState(outState);
         //save any required persistent data
     }
@@ -57,11 +85,83 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
     public void onViewStateRestored(@Nullable Bundle savedInstanceState) {
         super.onViewStateRestored(savedInstanceState);
         //restore persistent data to the fragment
+        if (savedInstanceState != null){
+            phoneNumber.setText(savedInstanceState.getString(Utility.PHONE_KEY));
+            paymentAmount.setText(savedInstanceState.getString(Utility.AMOUNT_KEY));
+        }
     }
 
     @Override
     public void onClick(View v) {
         //wire up buttons with appropriate actions
-        
+        int id = v.getId();
+        EditText edited = focusedTextField();;
+        //cancel button action
+        switch (id) {
+            case R.id.buttonCancel: {
+                String currentText = edited.getText().toString();
+                try {
+                    String updatedText = currentText.substring(0, currentText.length() - 1);
+                    edited.setText(updatedText);
+                } catch (IndexOutOfBoundsException iob) {
+                    iob.printStackTrace();
+                }
+            }
+            break;
+            //back button action
+            case R.id.buttonNext: {
+                if (isFocused(phoneNumber)) {
+                    paymentAmount.requestFocus();
+                } else {
+                    phoneNumber.requestFocus();
+                }
+            }
+            break;
+            //payButton action
+            case R.id.buttonpay: {
+                //start async request to request for payment
+                Ion.with(this).load("GET", "");
+            }
+            break;
+            case R.id.buttonOne:{
+                edited.append("1");
+            }break;
+            case R.id.buttonTwo:{
+                edited.append("2");
+            }break;
+            case R.id.buttonThree:{
+                edited.append("3");
+            }break;
+            case R.id.buttonFour:{
+                edited.append("4");
+            }break;
+            case R.id.buttonFive:{
+                edited.append("5");
+            }break;
+            case R.id.buttonSix:{
+                edited.append("6");
+            }break;
+            case R.id.buttonSeven:{
+                edited.append("7");
+            }break;
+            case R.id.buttonEight:{
+                edited.append("8");
+            }break;
+            case R.id.buttonNine:{
+                edited.append("9");
+            }case R.id.buttonZero:{
+                edited.append("0");
+            }
+            break;
+
+        }
+    }
+
+    private boolean isFocused(EditText ed){
+        return ed.isFocused() && ed.hasFocus();
+    }
+
+    private EditText focusedTextField(){
+        return isFocused(phoneNumber)? phoneNumber:paymentAmount;
     }
 }
