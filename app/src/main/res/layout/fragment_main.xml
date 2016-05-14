@@ -29,7 +29,9 @@
                 android:background="@color/bright_foreground_disabled_material_dark"
                 android:layout_marginBottom="@dimen/abc_action_bar_subtitle_bottom_margin_material"
                 android:hint="@string/phonehint"
-                android:enabled="false" />
+                android:enabled="false"
+                android:phoneNumber="true"
+                android:maxLength="12" />
 
             <EditText
                 android:layout_width="match_parent"
@@ -40,7 +42,8 @@
                 android:background="@color/bright_foreground_disabled_material_dark"
                 android:layout_marginBottom="@dimen/abc_action_bar_subtitle_bottom_margin_material"
                 android:hint="@string/amounttopayhint"
-                android:enabled="false" />
+                android:enabled="false"
+                android:maxLength="6" />
             <mehdi.sakout.fancybuttons.FancyButton
                 android:id="@+id/buttonpay"
                 android:layout_width="wrap_content"
