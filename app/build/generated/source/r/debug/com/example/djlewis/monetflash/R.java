@@ -2667,20 +2667,21 @@ containing a value of this type.
         public static final int error_center_x=0x7f020050;
         public static final int error_circle=0x7f020051;
         public static final int gray_button_background=0x7f020052;
-        public static final int ic_erase=0x7f020053;
-        public static final int ic_flashpay=0x7f020054;
-        public static final int ic_launcher=0x7f020055;
-        public static final int ic_next=0x7f020056;
-        public static final int ic_signup=0x7f020057;
-        public static final int next=0x7f020058;
-        public static final int notification_template_icon_bg=0x7f020060;
-        public static final int red_button_background=0x7f020059;
-        public static final int rounded_button=0x7f02005a;
-        public static final int rounded_button_danger=0x7f02005b;
-        public static final int success_bow=0x7f02005c;
-        public static final int success_circle=0x7f02005d;
-        public static final int warning_circle=0x7f02005e;
-        public static final int warning_sigh=0x7f02005f;
+        public static final int ic_backspace=0x7f020053;
+        public static final int ic_erase=0x7f020054;
+        public static final int ic_flashpay=0x7f020055;
+        public static final int ic_launcher=0x7f020056;
+        public static final int ic_next=0x7f020057;
+        public static final int ic_signup=0x7f020058;
+        public static final int next=0x7f020059;
+        public static final int notification_template_icon_bg=0x7f020061;
+        public static final int red_button_background=0x7f02005a;
+        public static final int rounded_button=0x7f02005b;
+        public static final int rounded_button_danger=0x7f02005c;
+        public static final int success_bow=0x7f02005d;
+        public static final int success_circle=0x7f02005e;
+        public static final int warning_circle=0x7f02005f;
+        public static final int warning_sigh=0x7f020060;
     }
     public static final class id {
         public static final int action0=0x7f0c009c;

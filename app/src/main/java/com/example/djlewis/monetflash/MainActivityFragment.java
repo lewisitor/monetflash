@@ -117,10 +117,15 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             //back button action
             case R.id.buttonNext: {
                 if (isFocused(phoneNumber)) {
+                    paymentAmount.setEnabled(true);
+                    phoneNumber.setEnabled(false);
                     paymentAmount.requestFocus();
                 } else {
+                    phoneNumber.setEnabled(true);
+                    paymentAmount.setEnabled(false);
                     phoneNumber.requestFocus();
                 }
+                System.err.println("Back Pressed");
             }
             break;
             //payButton action
@@ -196,7 +201,8 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             }break;
             case R.id.buttonNine:{
                 edited.append("9");
-            }case R.id.buttonZero:{
+            }break;
+            case R.id.buttonZero:{
                 edited.append("0");
             }
             break;

@@ -324,8 +324,8 @@
     <string name="intro">With Monetflash, every client has a way to pay You!</string>
     <string name="numbernotavailable">Business Phone Number unavailable</string>
     <string name="pay">Pay Now!</string>
-    <string name="paymentfailed">Payment Failed. Try again. %s</string>
-    <string name="paymentmessage">Payment request is bein made. Please use your mobile and authenticate within 2 minutes. Funds may be requested by FurtherMarket</string>
+    <string name="paymentfailed">Payment Failed. %s</string>
+    <string name="paymentmessage">Payment request is being made. Please use your mobile and authenticate within 2 minutes. Funds may be requested by FurtherMarket</string>
     <string name="paymentsuccess">Payment Received Successfully</string>
     <string name="phonehint">Mobile Money number</string>
     <string name="startpayment">Making payment</string>

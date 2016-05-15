@@ -5145,9 +5145,9 @@
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 974,
+                        "startOffset": 975,
                         "endColumn": 51,
-                        "endOffset": 1021
+                        "endOffset": 1022
                     }
                 }
             },
@@ -5213,17 +5213,17 @@
                     "startLine": 326,
                     "startColumn": 4,
                     "startOffset": 44188,
-                    "endColumn": 71,
-                    "endOffset": 44255
+                    "endColumn": 60,
+                    "endOffset": 44244
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1026,
-                        "endColumn": 71,
-                        "endOffset": 1093
+                        "startOffset": 1027,
+                        "endColumn": 60,
+                        "endOffset": 1083
                     }
                 }
             },
@@ -5231,9 +5231,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 44260,
-                    "endColumn": 170,
-                    "endOffset": 44426
+                    "startOffset": 44249,
+                    "endColumn": 171,
+                    "endOffset": 44416
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
@@ -5241,8 +5241,8 @@
                         "startLine": 14,
                         "startColumn": 4,
                         "startOffset": 803,
-                        "endColumn": 170,
-                        "endOffset": 969
+                        "endColumn": 171,
+                        "endOffset": 970
                     }
                 }
             },
@@ -5250,18 +5250,18 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 44431,
+                    "startOffset": 44421,
                     "endColumn": 72,
-                    "endOffset": 44499
+                    "endOffset": 44489
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1098,
+                        "startOffset": 1088,
                         "endColumn": 72,
-                        "endOffset": 1166
+                        "endOffset": 1156
                     }
                 }
             },
@@ -5269,9 +5269,9 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 44504,
+                    "startOffset": 44494,
                     "endColumn": 57,
-                    "endOffset": 44557
+                    "endOffset": 44547
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
@@ -5288,9 +5288,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 44562,
+                    "startOffset": 44552,
                     "endColumn": 55,
-                    "endOffset": 44613
+                    "endOffset": 44603
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
@@ -5307,9 +5307,9 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 44618,
+                    "startOffset": 44608,
                     "endColumn": 70,
-                    "endOffset": 44684
+                    "endOffset": 44674
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5326,9 +5326,9 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 44689,
+                    "startOffset": 44679,
                     "endColumn": 66,
-                    "endOffset": 44751
+                    "endOffset": 44741
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
@@ -5345,9 +5345,9 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 44756,
+                    "startOffset": 44746,
                     "endColumn": 46,
-                    "endOffset": 44798
+                    "endOffset": 44788
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/strings.xml",
@@ -5364,9 +5364,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 44803,
+                    "startOffset": 44793,
                     "endColumn": 77,
-                    "endOffset": 44876
+                    "endOffset": 44866
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5383,9 +5383,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 44881,
+                    "startOffset": 44871,
                     "endColumn": 89,
-                    "endOffset": 44966
+                    "endOffset": 44956
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5402,9 +5402,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 44971,
+                    "startOffset": 44961,
                     "endColumn": 87,
-                    "endOffset": 45054
+                    "endOffset": 45044
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5421,9 +5421,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 45059,
+                    "startOffset": 45049,
                     "endColumn": 95,
-                    "endOffset": 45150
+                    "endOffset": 45140
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5440,10 +5440,10 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 45155,
+                    "startOffset": 45145,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 45437
+                    "endOffset": 45427
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -5461,10 +5461,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 45442,
+                    "startOffset": 45432,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 45756
+                    "endOffset": 45746
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/styles.xml",
@@ -5482,9 +5482,9 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 45761,
+                    "startOffset": 45751,
                     "endColumn": 89,
-                    "endOffset": 45846
+                    "endOffset": 45836
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/styles.xml",
@@ -5501,10 +5501,10 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 45851,
+                    "startOffset": 45841,
                     "endLine": 352,
                     "endColumn": 12,
-                    "endOffset": 45996
+                    "endOffset": 45986
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/styles.xml",
@@ -5522,9 +5522,9 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 46001,
+                    "startOffset": 45991,
                     "endColumn": 79,
-                    "endOffset": 46076
+                    "endOffset": 46066
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/src/main/res/values/styles.xml",
@@ -5541,10 +5541,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 46081,
+                    "startOffset": 46071,
                     "endLine": 360,
                     "endColumn": 12,
-                    "endOffset": 46577
+                    "endOffset": 46567
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5562,9 +5562,9 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 46582,
+                    "startOffset": 46572,
                     "endColumn": 88,
-                    "endOffset": 46666
+                    "endOffset": 46656
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5581,10 +5581,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 46671,
+                    "startOffset": 46661,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 46913
+                    "endOffset": 46903
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5602,10 +5602,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 46918,
+                    "startOffset": 46908,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 47194
+                    "endOffset": 47184
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5623,10 +5623,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 47199,
+                    "startOffset": 47189,
                     "endLine": 374,
                     "endColumn": 12,
-                    "endOffset": 47479
+                    "endOffset": 47469
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5644,10 +5644,10 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 47484,
+                    "startOffset": 47474,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 47872
+                    "endOffset": 47862
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5665,10 +5665,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 47877,
+                    "startOffset": 47867,
                     "endLine": 387,
                     "endColumn": 12,
-                    "endOffset": 48349
+                    "endOffset": 48339
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5686,10 +5686,10 @@
                 "to": {
                     "startLine": 388,
                     "startColumn": 4,
-                    "startOffset": 48354,
+                    "startOffset": 48344,
                     "endLine": 391,
                     "endColumn": 12,
-                    "endOffset": 48571
+                    "endOffset": 48561
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5707,10 +5707,10 @@
                 "to": {
                     "startLine": 392,
                     "startColumn": 4,
-                    "startOffset": 48576,
+                    "startOffset": 48566,
                     "endLine": 395,
                     "endColumn": 12,
-                    "endOffset": 48793
+                    "endOffset": 48783
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5728,10 +5728,10 @@
                 "to": {
                     "startLine": 396,
                     "startColumn": 4,
-                    "startOffset": 48798,
+                    "startOffset": 48788,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 49061
+                    "endOffset": 49051
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5749,10 +5749,10 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 49066,
+                    "startOffset": 49056,
                     "endLine": 404,
                     "endColumn": 12,
-                    "endOffset": 49288
+                    "endOffset": 49278
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5770,10 +5770,10 @@
                 "to": {
                     "startLine": 405,
                     "startColumn": 4,
-                    "startOffset": 49293,
+                    "startOffset": 49283,
                     "endLine": 408,
                     "endColumn": 12,
-                    "endOffset": 49518
+                    "endOffset": 49508
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5791,10 +5791,10 @@
                 "to": {
                     "startLine": 409,
                     "startColumn": 4,
-                    "startOffset": 49523,
+                    "startOffset": 49513,
                     "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 49748
+                    "endOffset": 49738
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5812,10 +5812,10 @@
                 "to": {
                     "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 49753,
+                    "startOffset": 49743,
                     "endLine": 416,
                     "endColumn": 12,
-                    "endOffset": 49978
+                    "endOffset": 49968
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5833,10 +5833,10 @@
                 "to": {
                     "startLine": 417,
                     "startColumn": 4,
-                    "startOffset": 49983,
+                    "startOffset": 49973,
                     "endLine": 420,
                     "endColumn": 12,
-                    "endOffset": 50208
+                    "endOffset": 50198
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5854,10 +5854,10 @@
                 "to": {
                     "startLine": 421,
                     "startColumn": 4,
-                    "startOffset": 50213,
+                    "startOffset": 50203,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 50435
+                    "endOffset": 50425
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5875,10 +5875,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 50440,
+                    "startOffset": 50430,
                     "endLine": 428,
                     "endColumn": 12,
-                    "endOffset": 50674
+                    "endOffset": 50664
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5896,10 +5896,10 @@
                 "to": {
                     "startLine": 429,
                     "startColumn": 4,
-                    "startOffset": 50679,
+                    "startOffset": 50669,
                     "endLine": 432,
                     "endColumn": 12,
-                    "endOffset": 50900
+                    "endOffset": 50890
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5917,10 +5917,10 @@
                 "to": {
                     "startLine": 433,
                     "startColumn": 4,
-                    "startOffset": 50905,
+                    "startOffset": 50895,
                     "endLine": 436,
                     "endColumn": 12,
-                    "endOffset": 51145
+                    "endOffset": 51135
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5938,10 +5938,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 51150,
+                    "startOffset": 51140,
                     "endLine": 438,
                     "endColumn": 12,
-                    "endOffset": 51275
+                    "endOffset": 51265
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5959,10 +5959,10 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 51280,
+                    "startOffset": 51270,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 51405
+                    "endOffset": 51395
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -5980,10 +5980,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 51410,
+                    "startOffset": 51400,
                     "endLine": 444,
                     "endColumn": 12,
-                    "endOffset": 51635
+                    "endOffset": 51625
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6001,10 +6001,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 51640,
+                    "startOffset": 51630,
                     "endLine": 448,
                     "endColumn": 12,
-                    "endOffset": 51883
+                    "endOffset": 51873
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6022,10 +6022,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 51888,
+                    "startOffset": 51878,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 52102
+                    "endOffset": 52092
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6043,10 +6043,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 52107,
+                    "startOffset": 52097,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 52385
+                    "endOffset": 52375
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6064,10 +6064,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 52390,
+                    "startOffset": 52380,
                     "endLine": 461,
                     "endColumn": 12,
-                    "endOffset": 52593
+                    "endOffset": 52583
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6085,10 +6085,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 52598,
+                    "startOffset": 52588,
                     "endLine": 464,
                     "endColumn": 12,
-                    "endOffset": 52724
+                    "endOffset": 52714
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6106,10 +6106,10 @@
                 "to": {
                     "startLine": 465,
                     "startColumn": 4,
-                    "startOffset": 52729,
+                    "startOffset": 52719,
                     "endLine": 468,
                     "endColumn": 12,
-                    "endOffset": 52951
+                    "endOffset": 52941
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6127,10 +6127,10 @@
                 "to": {
                     "startLine": 469,
                     "startColumn": 4,
-                    "startOffset": 52956,
+                    "startOffset": 52946,
                     "endLine": 472,
                     "endColumn": 12,
-                    "endOffset": 53197
+                    "endOffset": 53187
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6148,10 +6148,10 @@
                 "to": {
                     "startLine": 473,
                     "startColumn": 4,
-                    "startOffset": 53202,
+                    "startOffset": 53192,
                     "endLine": 476,
                     "endColumn": 12,
-                    "endOffset": 53422
+                    "endOffset": 53412
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6169,10 +6169,10 @@
                 "to": {
                     "startLine": 477,
                     "startColumn": 4,
-                    "startOffset": 53427,
+                    "startOffset": 53417,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 53669
+                    "endOffset": 53659
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6190,10 +6190,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 53674,
+                    "startOffset": 53664,
                     "endLine": 484,
                     "endColumn": 12,
-                    "endOffset": 53890
+                    "endOffset": 53880
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6211,10 +6211,10 @@
                 "to": {
                     "startLine": 485,
                     "startColumn": 4,
-                    "startOffset": 53895,
+                    "startOffset": 53885,
                     "endLine": 488,
                     "endColumn": 12,
-                    "endOffset": 54135
+                    "endOffset": 54125
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6232,10 +6232,10 @@
                 "to": {
                     "startLine": 489,
                     "startColumn": 4,
-                    "startOffset": 54140,
+                    "startOffset": 54130,
                     "endLine": 492,
                     "endColumn": 12,
-                    "endOffset": 54411
+                    "endOffset": 54401
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6253,10 +6253,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 54416,
+                    "startOffset": 54406,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 54712
+                    "endOffset": 54702
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6274,10 +6274,10 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 54717,
+                    "startOffset": 54707,
                     "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 55036
+                    "endOffset": 55026
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6295,10 +6295,10 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 55041,
+                    "startOffset": 55031,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 55327
+                    "endOffset": 55317
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6316,10 +6316,10 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 55332,
+                    "startOffset": 55322,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 55641
+                    "endOffset": 55631
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6337,9 +6337,9 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 55646,
+                    "startOffset": 55636,
                     "endColumn": 136,
-                    "endOffset": 55778
+                    "endOffset": 55768
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6356,9 +6356,9 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 55783,
+                    "startOffset": 55773,
                     "endColumn": 130,
-                    "endOffset": 55909
+                    "endOffset": 55899
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6375,9 +6375,9 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 55914,
+                    "startOffset": 55904,
                     "endColumn": 104,
-                    "endOffset": 56014
+                    "endOffset": 56004
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6394,10 +6394,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 56019,
+                    "startOffset": 56009,
                     "endLine": 514,
                     "endColumn": 12,
-                    "endOffset": 56218
+                    "endOffset": 56208
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6415,10 +6415,10 @@
                 "to": {
                     "startLine": 515,
                     "startColumn": 4,
-                    "startOffset": 56223,
+                    "startOffset": 56213,
                     "endLine": 517,
                     "endColumn": 12,
-                    "endOffset": 56426
+                    "endOffset": 56416
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6436,10 +6436,10 @@
                 "to": {
                     "startLine": 518,
                     "startColumn": 4,
-                    "startOffset": 56431,
+                    "startOffset": 56421,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 56550
+                    "endOffset": 56540
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6457,10 +6457,10 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 56555,
+                    "startOffset": 56545,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 56674
+                    "endOffset": 56664
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6478,9 +6478,9 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 56679,
+                    "startOffset": 56669,
                     "endColumn": 104,
-                    "endOffset": 56779
+                    "endOffset": 56769
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6497,9 +6497,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 56784,
+                    "startOffset": 56774,
                     "endColumn": 116,
-                    "endOffset": 56896
+                    "endOffset": 56886
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6516,10 +6516,10 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 56901,
+                    "startOffset": 56891,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 57110
+                    "endOffset": 57100
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6537,10 +6537,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 57115,
+                    "startOffset": 57105,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 57256
+                    "endOffset": 57246
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6558,10 +6558,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 57261,
+                    "startOffset": 57251,
                     "endLine": 530,
                     "endColumn": 12,
-                    "endOffset": 57396
+                    "endOffset": 57386
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6579,10 +6579,10 @@
                 "to": {
                     "startLine": 531,
                     "startColumn": 4,
-                    "startOffset": 57401,
+                    "startOffset": 57391,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 57482
+                    "endOffset": 57472
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6600,10 +6600,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 57487,
+                    "startOffset": 57477,
                     "endLine": 537,
                     "endColumn": 12,
-                    "endOffset": 57830
+                    "endOffset": 57820
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6621,9 +6621,9 @@
                 "to": {
                     "startLine": 538,
                     "startColumn": 4,
-                    "startOffset": 57835,
+                    "startOffset": 57825,
                     "endColumn": 87,
-                    "endOffset": 57918
+                    "endOffset": 57908
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6640,10 +6640,10 @@
                 "to": {
                     "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 57923,
+                    "startOffset": 57913,
                     "endLine": 542,
                     "endColumn": 12,
-                    "endOffset": 58148
+                    "endOffset": 58138
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6661,10 +6661,10 @@
                 "to": {
                     "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 58153,
+                    "startOffset": 58143,
                     "endLine": 548,
                     "endColumn": 12,
-                    "endOffset": 58566
+                    "endOffset": 58556
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6682,10 +6682,10 @@
                 "to": {
                     "startLine": 549,
                     "startColumn": 4,
-                    "startOffset": 58571,
+                    "startOffset": 58561,
                     "endLine": 552,
                     "endColumn": 12,
-                    "endOffset": 58799
+                    "endOffset": 58789
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6703,9 +6703,9 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 58804,
+                    "startOffset": 58794,
                     "endColumn": 81,
-                    "endOffset": 58881
+                    "endOffset": 58871
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6722,10 +6722,10 @@
                 "to": {
                     "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 58886,
+                    "startOffset": 58876,
                     "endLine": 555,
                     "endColumn": 12,
-                    "endOffset": 58979
+                    "endOffset": 58969
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6743,10 +6743,10 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 58984,
+                    "startOffset": 58974,
                     "endLine": 566,
                     "endColumn": 12,
-                    "endOffset": 59596
+                    "endOffset": 59586
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6764,9 +6764,9 @@
                 "to": {
                     "startLine": 567,
                     "startColumn": 4,
-                    "startOffset": 59601,
+                    "startOffset": 59591,
                     "endColumn": 99,
-                    "endOffset": 59696
+                    "endOffset": 59686
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6783,10 +6783,10 @@
                 "to": {
                     "startLine": 568,
                     "startColumn": 4,
-                    "startOffset": 59701,
+                    "startOffset": 59691,
                     "endLine": 571,
                     "endColumn": 12,
-                    "endOffset": 59932
+                    "endOffset": 59922
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6804,10 +6804,10 @@
                 "to": {
                     "startLine": 572,
                     "startColumn": 4,
-                    "startOffset": 59937,
+                    "startOffset": 59927,
                     "endLine": 577,
                     "endColumn": 12,
-                    "endOffset": 60356
+                    "endOffset": 60346
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6825,10 +6825,10 @@
                 "to": {
                     "startLine": 578,
                     "startColumn": 4,
-                    "startOffset": 60361,
+                    "startOffset": 60351,
                     "endLine": 581,
                     "endColumn": 12,
-                    "endOffset": 60595
+                    "endOffset": 60585
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6846,9 +6846,9 @@
                 "to": {
                     "startLine": 582,
                     "startColumn": 4,
-                    "startOffset": 60600,
+                    "startOffset": 60590,
                     "endColumn": 93,
-                    "endOffset": 60689
+                    "endOffset": 60679
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6865,9 +6865,9 @@
                 "to": {
                     "startLine": 583,
                     "startColumn": 4,
-                    "startOffset": 60694,
+                    "startOffset": 60684,
                     "endColumn": 88,
-                    "endOffset": 60778
+                    "endOffset": 60768
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6884,10 +6884,10 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 60783,
+                    "startOffset": 60773,
                     "endLine": 587,
                     "endColumn": 12,
-                    "endOffset": 61015
+                    "endOffset": 61005
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6905,10 +6905,10 @@
                 "to": {
                     "startLine": 588,
                     "startColumn": 4,
-                    "startOffset": 61020,
+                    "startOffset": 61010,
                     "endLine": 613,
                     "endColumn": 12,
-                    "endOffset": 62966
+                    "endOffset": 62956
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6926,10 +6926,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 62971,
+                    "startOffset": 62961,
                     "endLine": 617,
                     "endColumn": 12,
-                    "endOffset": 63208
+                    "endOffset": 63198
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6947,10 +6947,10 @@
                 "to": {
                     "startLine": 618,
                     "startColumn": 4,
-                    "startOffset": 63213,
+                    "startOffset": 63203,
                     "endLine": 644,
                     "endColumn": 12,
-                    "endOffset": 65290
+                    "endOffset": 65280
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6968,10 +6968,10 @@
                 "to": {
                     "startLine": 645,
                     "startColumn": 4,
-                    "startOffset": 65295,
+                    "startOffset": 65285,
                     "endLine": 799,
                     "endColumn": 12,
-                    "endOffset": 75156
+                    "endOffset": 75146
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -6989,10 +6989,10 @@
                 "to": {
                     "startLine": 800,
                     "startColumn": 4,
-                    "startOffset": 75161,
+                    "startOffset": 75151,
                     "endLine": 821,
                     "endColumn": 12,
-                    "endOffset": 76423
+                    "endOffset": 76413
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7010,10 +7010,10 @@
                 "to": {
                     "startLine": 822,
                     "startColumn": 4,
-                    "startOffset": 76428,
+                    "startOffset": 76418,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 86399
+                    "endOffset": 86389
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7031,10 +7031,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 86404,
+                    "startOffset": 86394,
                     "endLine": 998,
                     "endColumn": 12,
-                    "endOffset": 87680
+                    "endOffset": 87670
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7052,10 +7052,10 @@
                 "to": {
                     "startLine": 999,
                     "startColumn": 4,
-                    "startOffset": 87685,
+                    "startOffset": 87675,
                     "endLine": 1005,
                     "endColumn": 12,
-                    "endOffset": 88216
+                    "endOffset": 88206
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7073,10 +7073,10 @@
                 "to": {
                     "startLine": 1006,
                     "startColumn": 4,
-                    "startOffset": 88221,
+                    "startOffset": 88211,
                     "endLine": 1010,
                     "endColumn": 12,
-                    "endOffset": 88546
+                    "endOffset": 88536
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7094,10 +7094,10 @@
                 "to": {
                     "startLine": 1011,
                     "startColumn": 4,
-                    "startOffset": 88551,
+                    "startOffset": 88541,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 89669
+                    "endOffset": 89659
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7115,10 +7115,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 89674,
+                    "startOffset": 89664,
                     "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 89925
+                    "endOffset": 89915
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7136,10 +7136,10 @@
                 "to": {
                     "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 89930,
+                    "startOffset": 89920,
                     "endLine": 1041,
                     "endColumn": 12,
-                    "endOffset": 90161
+                    "endOffset": 90151
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7157,10 +7157,10 @@
                 "to": {
                     "startLine": 1042,
                     "startColumn": 4,
-                    "startOffset": 90166,
+                    "startOffset": 90156,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 90708
+                    "endOffset": 90698
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7178,10 +7178,10 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 90713,
+                    "startOffset": 90703,
                     "endLine": 1060,
                     "endColumn": 12,
-                    "endOffset": 91202
+                    "endOffset": 91192
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7199,10 +7199,10 @@
                 "to": {
                     "startLine": 1061,
                     "startColumn": 4,
-                    "startOffset": 91207,
+                    "startOffset": 91197,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 91807
+                    "endOffset": 91797
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7220,10 +7220,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 91812,
+                    "startOffset": 91802,
                     "endLine": 1072,
                     "endColumn": 12,
-                    "endOffset": 91955
+                    "endOffset": 91945
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7241,10 +7241,10 @@
                 "to": {
                     "startLine": 1073,
                     "startColumn": 4,
-                    "startOffset": 91960,
+                    "startOffset": 91950,
                     "endLine": 1079,
                     "endColumn": 12,
-                    "endOffset": 92543
+                    "endOffset": 92533
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7262,10 +7262,10 @@
                 "to": {
                     "startLine": 1080,
                     "startColumn": 4,
-                    "startOffset": 92548,
+                    "startOffset": 92538,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 93107
+                    "endOffset": 93097
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7283,10 +7283,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 93112,
+                    "startOffset": 93102,
                     "endLine": 1094,
                     "endColumn": 12,
-                    "endOffset": 93482
+                    "endOffset": 93472
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7304,9 +7304,9 @@
                 "to": {
                     "startLine": 1095,
                     "startColumn": 4,
-                    "startOffset": 93487,
+                    "startOffset": 93477,
                     "endColumn": 117,
-                    "endOffset": 93600
+                    "endOffset": 93590
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7323,10 +7323,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 93605,
+                    "startOffset": 93595,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 94138
+                    "endOffset": 94128
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7344,10 +7344,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 94143,
+                    "startOffset": 94133,
                     "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 94295
+                    "endOffset": 94285
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7365,10 +7365,10 @@
                 "to": {
                     "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 94300,
+                    "startOffset": 94290,
                     "endLine": 1110,
                     "endColumn": 12,
-                    "endOffset": 94439
+                    "endOffset": 94429
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7386,10 +7386,10 @@
                 "to": {
                     "startLine": 1111,
                     "startColumn": 4,
-                    "startOffset": 94444,
+                    "startOffset": 94434,
                     "endLine": 1115,
                     "endColumn": 12,
-                    "endOffset": 94759
+                    "endOffset": 94749
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7407,10 +7407,10 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 94764,
+                    "startOffset": 94754,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 95015
+                    "endOffset": 95005
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7428,10 +7428,10 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 95020,
+                    "startOffset": 95010,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 95185
+                    "endOffset": 95175
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7449,10 +7449,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 95190,
+                    "startOffset": 95180,
                     "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 95326
+                    "endOffset": 95316
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7470,9 +7470,9 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 95331,
+                    "startOffset": 95321,
                     "endColumn": 63,
-                    "endOffset": 95390
+                    "endOffset": 95380
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7489,10 +7489,10 @@
                 "to": {
                     "startLine": 1128,
                     "startColumn": 4,
-                    "startOffset": 95395,
+                    "startOffset": 95385,
                     "endLine": 1131,
                     "endColumn": 12,
-                    "endOffset": 95672
+                    "endOffset": 95662
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7510,10 +7510,10 @@
                 "to": {
                     "startLine": 1132,
                     "startColumn": 4,
-                    "startOffset": 95677,
+                    "startOffset": 95667,
                     "endLine": 1135,
                     "endColumn": 12,
-                    "endOffset": 95958
+                    "endOffset": 95948
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7531,10 +7531,10 @@
                 "to": {
                     "startLine": 1136,
                     "startColumn": 4,
-                    "startOffset": 95963,
+                    "startOffset": 95953,
                     "endLine": 1145,
                     "endColumn": 12,
-                    "endOffset": 96634
+                    "endOffset": 96624
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7552,10 +7552,10 @@
                 "to": {
                     "startLine": 1146,
                     "startColumn": 4,
-                    "startOffset": 96639,
+                    "startOffset": 96629,
                     "endLine": 1150,
                     "endColumn": 12,
-                    "endOffset": 96898
+                    "endOffset": 96888
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7573,10 +7573,10 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 96903,
+                    "startOffset": 96893,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 97236
+                    "endOffset": 97226
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7594,10 +7594,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 97241,
+                    "startOffset": 97231,
                     "endLine": 1163,
                     "endColumn": 12,
-                    "endOffset": 97589
+                    "endOffset": 97579
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7615,9 +7615,9 @@
                 "to": {
                     "startLine": 1164,
                     "startColumn": 4,
-                    "startOffset": 97594,
+                    "startOffset": 97584,
                     "endColumn": 93,
-                    "endOffset": 97683
+                    "endOffset": 97673
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7634,10 +7634,10 @@
                 "to": {
                     "startLine": 1165,
                     "startColumn": 4,
-                    "startOffset": 97688,
+                    "startOffset": 97678,
                     "endLine": 1167,
                     "endColumn": 12,
-                    "endOffset": 97869
+                    "endOffset": 97859
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7655,10 +7655,10 @@
                 "to": {
                     "startLine": 1168,
                     "startColumn": 4,
-                    "startOffset": 97874,
+                    "startOffset": 97864,
                     "endLine": 1171,
                     "endColumn": 12,
-                    "endOffset": 98175
+                    "endOffset": 98165
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7676,10 +7676,10 @@
                 "to": {
                     "startLine": 1172,
                     "startColumn": 4,
-                    "startOffset": 98180,
+                    "startOffset": 98170,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 98437
+                    "endOffset": 98427
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7697,10 +7697,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 98442,
+                    "startOffset": 98432,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 98562
+                    "endOffset": 98552
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7718,10 +7718,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 98567,
+                    "startOffset": 98557,
                     "endLine": 1180,
                     "endColumn": 12,
-                    "endOffset": 98689
+                    "endOffset": 98679
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7739,10 +7739,10 @@
                 "to": {
                     "startLine": 1181,
                     "startColumn": 4,
-                    "startOffset": 98694,
+                    "startOffset": 98684,
                     "endLine": 1183,
                     "endColumn": 12,
-                    "endOffset": 98928
+                    "endOffset": 98918
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7760,10 +7760,10 @@
                 "to": {
                     "startLine": 1184,
                     "startColumn": 4,
-                    "startOffset": 98933,
+                    "startOffset": 98923,
                     "endLine": 1186,
                     "endColumn": 12,
-                    "endOffset": 99139
+                    "endOffset": 99129
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7781,10 +7781,10 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 99144,
+                    "startOffset": 99134,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 99258
+                    "endOffset": 99248
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7802,10 +7802,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 99263,
+                    "startOffset": 99253,
                     "endLine": 1192,
                     "endColumn": 12,
-                    "endOffset": 99451
+                    "endOffset": 99441
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7823,10 +7823,10 @@
                 "to": {
                     "startLine": 1193,
                     "startColumn": 4,
-                    "startOffset": 99456,
+                    "startOffset": 99446,
                     "endLine": 1199,
                     "endColumn": 12,
-                    "endOffset": 99906
+                    "endOffset": 99896
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7844,10 +7844,10 @@
                 "to": {
                     "startLine": 1200,
                     "startColumn": 4,
-                    "startOffset": 99911,
+                    "startOffset": 99901,
                     "endLine": 1202,
                     "endColumn": 12,
-                    "endOffset": 100087
+                    "endOffset": 100077
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7865,10 +7865,10 @@
                 "to": {
                     "startLine": 1203,
                     "startColumn": 4,
-                    "startOffset": 100092,
+                    "startOffset": 100082,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 100209
+                    "endOffset": 100199
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7886,10 +7886,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 100214,
+                    "startOffset": 100204,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 100468
+                    "endOffset": 100458
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7907,10 +7907,10 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 100473,
+                    "startOffset": 100463,
                     "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 100581
+                    "endOffset": 100571
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7928,10 +7928,10 @@
                 "to": {
                     "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 100586,
+                    "startOffset": 100576,
                     "endLine": 1215,
                     "endColumn": 12,
-                    "endOffset": 100768
+                    "endOffset": 100758
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7949,10 +7949,10 @@
                 "to": {
                     "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 100773,
+                    "startOffset": 100763,
                     "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 100870
+                    "endOffset": 100860
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7970,10 +7970,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 100875,
+                    "startOffset": 100865,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 101314
+                    "endOffset": 101304
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -7991,10 +7991,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 101319,
+                    "startOffset": 101309,
                     "endLine": 1225,
                     "endColumn": 12,
-                    "endOffset": 101438
+                    "endOffset": 101428
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8012,10 +8012,10 @@
                 "to": {
                     "startLine": 1226,
                     "startColumn": 4,
-                    "startOffset": 101443,
+                    "startOffset": 101433,
                     "endLine": 1229,
                     "endColumn": 12,
-                    "endOffset": 101723
+                    "endOffset": 101713
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8033,10 +8033,10 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 101728,
+                    "startOffset": 101718,
                     "endLine": 1237,
                     "endColumn": 12,
-                    "endOffset": 102231
+                    "endOffset": 102221
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8054,10 +8054,10 @@
                 "to": {
                     "startLine": 1238,
                     "startColumn": 4,
-                    "startOffset": 102236,
+                    "startOffset": 102226,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 102727
+                    "endOffset": 102717
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8075,10 +8075,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 102732,
+                    "startOffset": 102722,
                     "endLine": 1257,
                     "endColumn": 12,
-                    "endOffset": 103614
+                    "endOffset": 103604
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8096,10 +8096,10 @@
                 "to": {
                     "startLine": 1258,
                     "startColumn": 4,
-                    "startOffset": 103619,
+                    "startOffset": 103609,
                     "endLine": 1263,
                     "endColumn": 12,
-                    "endOffset": 103908
+                    "endOffset": 103898
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8117,10 +8117,10 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 103913,
+                    "startOffset": 103903,
                     "endLine": 1272,
                     "endColumn": 12,
-                    "endOffset": 104478
+                    "endOffset": 104468
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8138,10 +8138,10 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 104483,
+                    "startOffset": 104473,
                     "endLine": 1283,
                     "endColumn": 12,
-                    "endOffset": 105210
+                    "endOffset": 105200
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8159,10 +8159,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 105215,
+                    "startOffset": 105205,
                     "endLine": 1286,
                     "endColumn": 12,
-                    "endOffset": 105382
+                    "endOffset": 105372
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8180,10 +8180,10 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 105387,
+                    "startOffset": 105377,
                     "endLine": 1291,
                     "endColumn": 12,
-                    "endOffset": 105718
+                    "endOffset": 105708
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8201,10 +8201,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 105723,
+                    "startOffset": 105713,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 106626
+                    "endOffset": 106616
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8222,10 +8222,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 106631,
+                    "startOffset": 106621,
                     "endLine": 1308,
                     "endColumn": 12,
-                    "endOffset": 106904
+                    "endOffset": 106894
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8243,10 +8243,10 @@
                 "to": {
                     "startLine": 1309,
                     "startColumn": 4,
-                    "startOffset": 106909,
+                    "startOffset": 106899,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 107495
+                    "endOffset": 107485
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -8264,10 +8264,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 107500,
+                    "startOffset": 107490,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 110357
+                    "endOffset": 110347
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8285,10 +8285,10 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 110362,
+                    "startOffset": 110352,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 113359
+                    "endOffset": 113349
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8306,9 +8306,9 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 113364,
+                    "startOffset": 113354,
                     "endColumn": 61,
-                    "endOffset": 113421
+                    "endOffset": 113411
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8325,10 +8325,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 113426,
+                    "startOffset": 113416,
                     "endLine": 1406,
                     "endColumn": 12,
-                    "endOffset": 114051
+                    "endOffset": 114041
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8346,10 +8346,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 114056,
+                    "startOffset": 114046,
                     "endLine": 1415,
                     "endColumn": 12,
-                    "endOffset": 114665
+                    "endOffset": 114655
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8367,9 +8367,9 @@
                 "to": {
                     "startLine": 1416,
                     "startColumn": 4,
-                    "startOffset": 114670,
+                    "startOffset": 114660,
                     "endColumn": 85,
-                    "endOffset": 114751
+                    "endOffset": 114741
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8386,10 +8386,10 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 114756,
+                    "startOffset": 114746,
                     "endLine": 1418,
                     "endColumn": 12,
-                    "endOffset": 114864
+                    "endOffset": 114854
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8407,10 +8407,10 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 114869,
+                    "startOffset": 114859,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 115093
+                    "endOffset": 115083
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8428,10 +8428,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 115098,
+                    "startOffset": 115088,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 115253
+                    "endOffset": 115243
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8449,10 +8449,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 115258,
+                    "startOffset": 115248,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 115405
+                    "endOffset": 115395
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8470,10 +8470,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 115410,
+                    "startOffset": 115400,
                     "endLine": 1431,
                     "endColumn": 12,
-                    "endOffset": 115576
+                    "endOffset": 115566
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8491,10 +8491,10 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 115581,
+                    "startOffset": 115571,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 115743
+                    "endOffset": 115733
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8512,10 +8512,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 115748,
+                    "startOffset": 115738,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 115986
+                    "endOffset": 115976
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8533,10 +8533,10 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 115991,
+                    "startOffset": 115981,
                     "endLine": 1441,
                     "endColumn": 12,
-                    "endOffset": 116156
+                    "endOffset": 116146
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8554,10 +8554,10 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 116161,
+                    "startOffset": 116151,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 116329
+                    "endOffset": 116319
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8575,10 +8575,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 116334,
+                    "startOffset": 116324,
                     "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 116500
+                    "endOffset": 116490
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8596,10 +8596,10 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 116505,
+                    "startOffset": 116495,
                     "endLine": 1451,
                     "endColumn": 12,
-                    "endOffset": 116774
+                    "endOffset": 116764
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8617,10 +8617,10 @@
                 "to": {
                     "startLine": 1452,
                     "startColumn": 4,
-                    "startOffset": 116779,
+                    "startOffset": 116769,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 116973
+                    "endOffset": 116963
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8638,10 +8638,10 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 116978,
+                    "startOffset": 116968,
                     "endLine": 1458,
                     "endColumn": 12,
-                    "endOffset": 117178
+                    "endOffset": 117168
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8659,10 +8659,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 117183,
+                    "startOffset": 117173,
                     "endLine": 1462,
                     "endColumn": 12,
-                    "endOffset": 117508
+                    "endOffset": 117498
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8680,9 +8680,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 117513,
+                    "startOffset": 117503,
                     "endColumn": 83,
-                    "endOffset": 117592
+                    "endOffset": 117582
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8699,9 +8699,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 117597,
+                    "startOffset": 117587,
                     "endColumn": 95,
-                    "endOffset": 117688
+                    "endOffset": 117678
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8718,9 +8718,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 117693,
+                    "startOffset": 117683,
                     "endColumn": 95,
-                    "endOffset": 117784
+                    "endOffset": 117774
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8737,9 +8737,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 117789,
+                    "startOffset": 117779,
                     "endColumn": 97,
-                    "endOffset": 117882
+                    "endOffset": 117872
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8756,9 +8756,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 117887,
+                    "startOffset": 117877,
                     "endColumn": 99,
-                    "endOffset": 117982
+                    "endOffset": 117972
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8775,9 +8775,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 117987,
+                    "startOffset": 117977,
                     "endColumn": 101,
-                    "endOffset": 118084
+                    "endOffset": 118074
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8794,9 +8794,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 118089,
+                    "startOffset": 118079,
                     "endColumn": 101,
-                    "endOffset": 118186
+                    "endOffset": 118176
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8813,9 +8813,9 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 118191,
+                    "startOffset": 118181,
                     "endColumn": 101,
-                    "endOffset": 118288
+                    "endOffset": 118278
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8832,9 +8832,9 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 118293,
+                    "startOffset": 118283,
                     "endColumn": 101,
-                    "endOffset": 118390
+                    "endOffset": 118380
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8851,9 +8851,9 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 118395,
+                    "startOffset": 118385,
                     "endColumn": 101,
-                    "endOffset": 118492
+                    "endOffset": 118482
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8870,9 +8870,9 @@
                 "to": {
                     "startLine": 1473,
                     "startColumn": 4,
-                    "startOffset": 118497,
+                    "startOffset": 118487,
                     "endColumn": 99,
-                    "endOffset": 118592
+                    "endOffset": 118582
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8889,9 +8889,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 118597,
+                    "startOffset": 118587,
                     "endColumn": 95,
-                    "endOffset": 118688
+                    "endOffset": 118678
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8908,9 +8908,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 118693,
+                    "startOffset": 118683,
                     "endColumn": 111,
-                    "endOffset": 118800
+                    "endOffset": 118790
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8927,9 +8927,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 118805,
+                    "startOffset": 118795,
                     "endColumn": 128,
-                    "endOffset": 118929
+                    "endOffset": 118919
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8946,9 +8946,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 118934,
+                    "startOffset": 118924,
                     "endColumn": 122,
-                    "endOffset": 119052
+                    "endOffset": 119042
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8965,10 +8965,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 119057,
+                    "startOffset": 119047,
                     "endLine": 1479,
                     "endColumn": 12,
-                    "endOffset": 119206
+                    "endOffset": 119196
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -8986,10 +8986,10 @@
                 "to": {
                     "startLine": 1480,
                     "startColumn": 4,
-                    "startOffset": 119211,
+                    "startOffset": 119201,
                     "endLine": 1481,
                     "endColumn": 12,
-                    "endOffset": 119360
+                    "endOffset": 119350
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9007,9 +9007,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 119365,
+                    "startOffset": 119355,
                     "endColumn": 97,
-                    "endOffset": 119458
+                    "endOffset": 119448
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9026,9 +9026,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 119463,
+                    "startOffset": 119453,
                     "endColumn": 113,
-                    "endOffset": 119572
+                    "endOffset": 119562
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9045,9 +9045,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 119577,
+                    "startOffset": 119567,
                     "endColumn": 93,
-                    "endOffset": 119666
+                    "endOffset": 119656
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9064,10 +9064,10 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 119671,
+                    "startOffset": 119661,
                     "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 119806
+                    "endOffset": 119796
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9085,10 +9085,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 119811,
+                    "startOffset": 119801,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 119940
+                    "endOffset": 119930
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9106,9 +9106,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 119945,
+                    "startOffset": 119935,
                     "endColumn": 95,
-                    "endOffset": 120036
+                    "endOffset": 120026
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9125,9 +9125,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 120041,
+                    "startOffset": 120031,
                     "endColumn": 111,
-                    "endOffset": 120148
+                    "endOffset": 120138
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9144,9 +9144,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 120153,
+                    "startOffset": 120143,
                     "endColumn": 99,
-                    "endOffset": 120248
+                    "endOffset": 120238
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9163,9 +9163,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 120253,
+                    "startOffset": 120243,
                     "endColumn": 115,
-                    "endOffset": 120364
+                    "endOffset": 120354
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9182,9 +9182,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 120369,
+                    "startOffset": 120359,
                     "endColumn": 95,
-                    "endOffset": 120460
+                    "endOffset": 120450
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9201,9 +9201,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 120465,
+                    "startOffset": 120455,
                     "endColumn": 111,
-                    "endOffset": 120572
+                    "endOffset": 120562
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9220,10 +9220,10 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 120577,
+                    "startOffset": 120567,
                     "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 120712
+                    "endOffset": 120702
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9241,9 +9241,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 120717,
+                    "startOffset": 120707,
                     "endColumn": 135,
-                    "endOffset": 120848
+                    "endOffset": 120838
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9260,10 +9260,10 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 120853,
+                    "startOffset": 120843,
                     "endLine": 1499,
                     "endColumn": 12,
-                    "endOffset": 121012
+                    "endOffset": 121002
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9281,9 +9281,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 121017,
+                    "startOffset": 121007,
                     "endColumn": 129,
-                    "endOffset": 121142
+                    "endOffset": 121132
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9300,10 +9300,10 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 121147,
+                    "startOffset": 121137,
                     "endLine": 1502,
                     "endColumn": 12,
-                    "endOffset": 121300
+                    "endOffset": 121290
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9321,10 +9321,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 121305,
+                    "startOffset": 121295,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 121450
+                    "endOffset": 121440
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9342,9 +9342,9 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 121455,
+                    "startOffset": 121445,
                     "endColumn": 140,
-                    "endOffset": 121591
+                    "endOffset": 121581
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9361,10 +9361,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 121596,
+                    "startOffset": 121586,
                     "endLine": 1507,
                     "endColumn": 12,
-                    "endOffset": 121735
+                    "endOffset": 121725
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9382,9 +9382,9 @@
                 "to": {
                     "startLine": 1508,
                     "startColumn": 4,
-                    "startOffset": 121740,
+                    "startOffset": 121730,
                     "endColumn": 134,
-                    "endOffset": 121870
+                    "endOffset": 121860
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9401,9 +9401,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 121875,
+                    "startOffset": 121865,
                     "endColumn": 111,
-                    "endOffset": 121982
+                    "endOffset": 121972
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9420,9 +9420,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 121987,
+                    "startOffset": 121977,
                     "endColumn": 127,
-                    "endOffset": 122110
+                    "endOffset": 122100
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9439,10 +9439,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 122115,
+                    "startOffset": 122105,
                     "endLine": 1512,
                     "endColumn": 12,
-                    "endOffset": 122246
+                    "endOffset": 122236
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9460,10 +9460,10 @@
                 "to": {
                     "startLine": 1513,
                     "startColumn": 4,
-                    "startOffset": 122251,
+                    "startOffset": 122241,
                     "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 122388
+                    "endOffset": 122378
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9481,10 +9481,10 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 122393,
+                    "startOffset": 122383,
                     "endLine": 1516,
                     "endColumn": 12,
-                    "endOffset": 122530
+                    "endOffset": 122520
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9502,9 +9502,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 122535,
+                    "startOffset": 122525,
                     "endColumn": 111,
-                    "endOffset": 122642
+                    "endOffset": 122632
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9521,9 +9521,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 122647,
+                    "startOffset": 122637,
                     "endColumn": 139,
-                    "endOffset": 122782
+                    "endOffset": 122772
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9540,10 +9540,10 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 122787,
+                    "startOffset": 122777,
                     "endLine": 1521,
                     "endColumn": 12,
-                    "endOffset": 122983
+                    "endOffset": 122973
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9561,9 +9561,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 122988,
+                    "startOffset": 122978,
                     "endColumn": 91,
-                    "endOffset": 123075
+                    "endOffset": 123065
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9580,10 +9580,10 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 123080,
+                    "startOffset": 123070,
                     "endLine": 1525,
                     "endColumn": 12,
-                    "endOffset": 123255
+                    "endOffset": 123245
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9601,10 +9601,10 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 123260,
+                    "startOffset": 123250,
                     "endLine": 1528,
                     "endColumn": 12,
-                    "endOffset": 123424
+                    "endOffset": 123414
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9622,10 +9622,10 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 123429,
+                    "startOffset": 123419,
                     "endLine": 1531,
                     "endColumn": 12,
-                    "endOffset": 123599
+                    "endOffset": 123589
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9643,10 +9643,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 123604,
+                    "startOffset": 123594,
                     "endLine": 1535,
                     "endColumn": 12,
-                    "endOffset": 123852
+                    "endOffset": 123842
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9664,10 +9664,10 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 123857,
+                    "startOffset": 123847,
                     "endLine": 1540,
                     "endColumn": 12,
-                    "endOffset": 124143
+                    "endOffset": 124133
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -9685,9 +9685,9 @@
                 "to": {
                     "startLine": 1541,
                     "startColumn": 4,
-                    "startOffset": 124148,
+                    "startOffset": 124138,
                     "endColumn": 67,
-                    "endOffset": 124211
+                    "endOffset": 124201
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9704,9 +9704,9 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 124216,
+                    "startOffset": 124206,
                     "endColumn": 72,
-                    "endOffset": 124284
+                    "endOffset": 124274
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9723,9 +9723,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 124289,
+                    "startOffset": 124279,
                     "endColumn": 73,
-                    "endOffset": 124358
+                    "endOffset": 124348
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9742,9 +9742,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 124363,
+                    "startOffset": 124353,
                     "endColumn": 72,
-                    "endOffset": 124431
+                    "endOffset": 124421
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9761,9 +9761,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 124436,
+                    "startOffset": 124426,
                     "endColumn": 73,
-                    "endOffset": 124505
+                    "endOffset": 124495
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9780,10 +9780,10 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 124510,
+                    "startOffset": 124500,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 124651
+                    "endOffset": 124641
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9801,10 +9801,10 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 124656,
+                    "startOffset": 124646,
                     "endLine": 1549,
                     "endColumn": 12,
-                    "endOffset": 124795
+                    "endOffset": 124785
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9822,10 +9822,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 124800,
+                    "startOffset": 124790,
                     "endLine": 1551,
                     "endColumn": 12,
-                    "endOffset": 124933
+                    "endOffset": 124923
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9843,9 +9843,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 124938,
+                    "startOffset": 124928,
                     "endColumn": 65,
-                    "endOffset": 124999
+                    "endOffset": 124989
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9862,9 +9862,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 125004,
+                    "startOffset": 124994,
                     "endColumn": 89,
-                    "endOffset": 125089
+                    "endOffset": 125079
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9881,9 +9881,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 125094,
+                    "startOffset": 125084,
                     "endColumn": 75,
-                    "endOffset": 125165
+                    "endOffset": 125155
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9900,9 +9900,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 125170,
+                    "startOffset": 125160,
                     "endColumn": 103,
-                    "endOffset": 125269
+                    "endOffset": 125259
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9919,9 +9919,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 125274,
+                    "startOffset": 125264,
                     "endColumn": 89,
-                    "endOffset": 125359
+                    "endOffset": 125349
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9938,9 +9938,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 125364,
+                    "startOffset": 125354,
                     "endColumn": 101,
-                    "endOffset": 125461
+                    "endOffset": 125451
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9957,9 +9957,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 125466,
+                    "startOffset": 125456,
                     "endColumn": 107,
-                    "endOffset": 125569
+                    "endOffset": 125559
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9976,9 +9976,9 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 125574,
+                    "startOffset": 125564,
                     "endColumn": 107,
-                    "endOffset": 125677
+                    "endOffset": 125667
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -9995,9 +9995,9 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 125682,
+                    "startOffset": 125672,
                     "endColumn": 99,
-                    "endOffset": 125777
+                    "endOffset": 125767
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10014,9 +10014,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 125782,
+                    "startOffset": 125772,
                     "endColumn": 79,
-                    "endOffset": 125857
+                    "endOffset": 125847
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10033,9 +10033,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 125862,
+                    "startOffset": 125852,
                     "endColumn": 91,
-                    "endOffset": 125949
+                    "endOffset": 125939
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10052,9 +10052,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 125954,
+                    "startOffset": 125944,
                     "endColumn": 97,
-                    "endOffset": 126047
+                    "endOffset": 126037
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10071,10 +10071,10 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 126052,
+                    "startOffset": 126042,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 126157
+                    "endOffset": 126147
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10092,9 +10092,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 126162,
+                    "startOffset": 126152,
                     "endColumn": 77,
-                    "endOffset": 126235
+                    "endOffset": 126225
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10111,9 +10111,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 126240,
+                    "startOffset": 126230,
                     "endColumn": 105,
-                    "endOffset": 126341
+                    "endOffset": 126331
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10130,9 +10130,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 126346,
+                    "startOffset": 126336,
                     "endColumn": 91,
-                    "endOffset": 126433
+                    "endOffset": 126423
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10149,9 +10149,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 126438,
+                    "startOffset": 126428,
                     "endColumn": 103,
-                    "endOffset": 126537
+                    "endOffset": 126527
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10168,9 +10168,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 126542,
+                    "startOffset": 126532,
                     "endColumn": 109,
-                    "endOffset": 126647
+                    "endOffset": 126637
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10187,10 +10187,10 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 126652,
+                    "startOffset": 126642,
                     "endLine": 1572,
                     "endColumn": 12,
-                    "endOffset": 126769
+                    "endOffset": 126759
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10208,10 +10208,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 126774,
+                    "startOffset": 126764,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 126932
+                    "endOffset": 126922
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10229,10 +10229,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 126937,
+                    "startOffset": 126927,
                     "endLine": 1580,
                     "endColumn": 12,
-                    "endOffset": 127089
+                    "endOffset": 127079
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10250,10 +10250,10 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 127094,
+                    "startOffset": 127084,
                     "endLine": 1583,
                     "endColumn": 12,
-                    "endOffset": 127243
+                    "endOffset": 127233
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10271,10 +10271,10 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 127248,
+                    "startOffset": 127238,
                     "endLine": 1588,
                     "endColumn": 12,
-                    "endOffset": 127601
+                    "endOffset": 127591
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10292,10 +10292,10 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 127606,
+                    "startOffset": 127596,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 127768
+                    "endOffset": 127758
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10313,10 +10313,10 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 127773,
+                    "startOffset": 127763,
                     "endLine": 1596,
                     "endColumn": 12,
-                    "endOffset": 128138
+                    "endOffset": 128128
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10334,10 +10334,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 128143,
+                    "startOffset": 128133,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 128298
+                    "endOffset": 128288
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10355,10 +10355,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 128303,
+                    "startOffset": 128293,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 128452
+                    "endOffset": 128442
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -10376,9 +10376,9 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 128457,
+                    "startOffset": 128447,
                     "endColumn": 79,
-                    "endOffset": 128532
+                    "endOffset": 128522
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10395,9 +10395,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 128537,
+                    "startOffset": 128527,
                     "endColumn": 99,
-                    "endOffset": 128632
+                    "endOffset": 128622
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10414,9 +10414,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 128637,
+                    "startOffset": 128627,
                     "endColumn": 89,
-                    "endOffset": 128722
+                    "endOffset": 128712
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10433,9 +10433,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 128727,
+                    "startOffset": 128717,
                     "endColumn": 109,
-                    "endOffset": 128832
+                    "endOffset": 128822
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10452,9 +10452,9 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 128837,
+                    "startOffset": 128827,
                     "endColumn": 91,
-                    "endOffset": 128924
+                    "endOffset": 128914
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10471,10 +10471,10 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 128929,
+                    "startOffset": 128919,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 129024
+                    "endOffset": 129014
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10492,10 +10492,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 129029,
+                    "startOffset": 129019,
                     "endLine": 1613,
                     "endColumn": 12,
-                    "endOffset": 129136
+                    "endOffset": 129126
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10513,10 +10513,10 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 129141,
+                    "startOffset": 129131,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 129250
+                    "endOffset": 129240
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10534,10 +10534,10 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 129255,
+                    "startOffset": 129245,
                     "endLine": 1617,
                     "endColumn": 12,
-                    "endOffset": 129366
+                    "endOffset": 129356
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10555,10 +10555,10 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 129371,
+                    "startOffset": 129361,
                     "endLine": 1619,
                     "endColumn": 12,
-                    "endOffset": 129482
+                    "endOffset": 129472
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10576,9 +10576,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 129487,
+                    "startOffset": 129477,
                     "endColumn": 93,
-                    "endOffset": 129576
+                    "endOffset": 129566
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10595,9 +10595,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 129581,
+                    "startOffset": 129571,
                     "endColumn": 113,
-                    "endOffset": 129690
+                    "endOffset": 129680
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10614,9 +10614,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 129695,
+                    "startOffset": 129685,
                     "endColumn": 111,
-                    "endOffset": 129802
+                    "endOffset": 129792
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10633,10 +10633,10 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 129807,
+                    "startOffset": 129797,
                     "endLine": 1624,
                     "endColumn": 12,
-                    "endOffset": 129904
+                    "endOffset": 129894
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10654,10 +10654,10 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 129909,
+                    "startOffset": 129899,
                     "endLine": 1626,
                     "endColumn": 12,
-                    "endOffset": 130024
+                    "endOffset": 130014
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10675,10 +10675,10 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 130029,
+                    "startOffset": 130019,
                     "endLine": 1628,
                     "endColumn": 12,
-                    "endOffset": 130146
+                    "endOffset": 130136
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10696,9 +10696,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 130151,
+                    "startOffset": 130141,
                     "endColumn": 81,
-                    "endOffset": 130228
+                    "endOffset": 130218
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10715,9 +10715,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 130233,
+                    "startOffset": 130223,
                     "endColumn": 103,
-                    "endOffset": 130332
+                    "endOffset": 130322
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10734,9 +10734,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 130337,
+                    "startOffset": 130327,
                     "endColumn": 119,
-                    "endOffset": 130452
+                    "endOffset": 130442
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10753,9 +10753,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 130457,
+                    "startOffset": 130447,
                     "endColumn": 125,
-                    "endOffset": 130578
+                    "endOffset": 130568
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10772,9 +10772,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 130583,
+                    "startOffset": 130573,
                     "endColumn": 97,
-                    "endOffset": 130676
+                    "endOffset": 130666
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10791,9 +10791,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 130681,
+                    "startOffset": 130671,
                     "endColumn": 93,
-                    "endOffset": 130770
+                    "endOffset": 130760
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10810,9 +10810,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 130775,
+                    "startOffset": 130765,
                     "endColumn": 87,
-                    "endOffset": 130858
+                    "endOffset": 130848
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10829,9 +10829,9 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 130863,
+                    "startOffset": 130853,
                     "endColumn": 111,
-                    "endOffset": 130970
+                    "endOffset": 130960
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10848,9 +10848,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 130975,
+                    "startOffset": 130965,
                     "endColumn": 115,
-                    "endOffset": 131086
+                    "endOffset": 131076
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10867,9 +10867,9 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 131091,
+                    "startOffset": 131081,
                     "endColumn": 121,
-                    "endOffset": 131208
+                    "endOffset": 131198
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10886,9 +10886,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 131213,
+                    "startOffset": 131203,
                     "endColumn": 111,
-                    "endOffset": 131320
+                    "endOffset": 131310
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10905,10 +10905,10 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 131325,
+                    "startOffset": 131315,
                     "endLine": 1642,
                     "endColumn": 12,
-                    "endOffset": 131495
+                    "endOffset": 131485
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10926,9 +10926,9 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 131500,
+                    "startOffset": 131490,
                     "endColumn": 115,
-                    "endOffset": 131611
+                    "endOffset": 131601
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10945,9 +10945,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 131616,
+                    "startOffset": 131606,
                     "endColumn": 85,
-                    "endOffset": 131697
+                    "endOffset": 131687
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10964,9 +10964,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 131702,
+                    "startOffset": 131692,
                     "endColumn": 91,
-                    "endOffset": 131789
+                    "endOffset": 131779
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -10983,10 +10983,10 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 131794,
+                    "startOffset": 131784,
                     "endLine": 1647,
                     "endColumn": 12,
-                    "endOffset": 131901
+                    "endOffset": 131891
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11004,10 +11004,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 131906,
+                    "startOffset": 131896,
                     "endLine": 1649,
                     "endColumn": 12,
-                    "endOffset": 132025
+                    "endOffset": 132015
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11025,9 +11025,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 132030,
+                    "startOffset": 132020,
                     "endColumn": 66,
-                    "endOffset": 132092
+                    "endOffset": 132082
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11044,10 +11044,10 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 132097,
+                    "startOffset": 132087,
                     "endLine": 1652,
                     "endColumn": 12,
-                    "endOffset": 132218
+                    "endOffset": 132208
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11065,9 +11065,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 132223,
+                    "startOffset": 132213,
                     "endColumn": 67,
-                    "endOffset": 132286
+                    "endOffset": 132276
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11084,10 +11084,10 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 132291,
+                    "startOffset": 132281,
                     "endLine": 1655,
                     "endColumn": 12,
-                    "endOffset": 132414
+                    "endOffset": 132404
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11105,10 +11105,10 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 132419,
+                    "startOffset": 132409,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 132558
+                    "endOffset": 132548
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11126,10 +11126,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 132563,
+                    "startOffset": 132553,
                     "endLine": 1659,
                     "endColumn": 12,
-                    "endOffset": 132686
+                    "endOffset": 132676
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11147,9 +11147,9 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 132691,
+                    "startOffset": 132681,
                     "endColumn": 68,
-                    "endOffset": 132755
+                    "endOffset": 132745
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11166,9 +11166,9 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 132760,
+                    "startOffset": 132750,
                     "endColumn": 94,
-                    "endOffset": 132850
+                    "endOffset": 132840
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11185,9 +11185,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 132855,
+                    "startOffset": 132845,
                     "endColumn": 114,
-                    "endOffset": 132965
+                    "endOffset": 132955
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11204,9 +11204,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 132970,
+                    "startOffset": 132960,
                     "endColumn": 112,
-                    "endOffset": 133078
+                    "endOffset": 133068
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11223,9 +11223,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 133083,
+                    "startOffset": 133073,
                     "endColumn": 98,
-                    "endOffset": 133177
+                    "endOffset": 133167
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11242,9 +11242,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 133182,
+                    "startOffset": 133172,
                     "endColumn": 108,
-                    "endOffset": 133286
+                    "endOffset": 133276
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11261,9 +11261,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 133291,
+                    "startOffset": 133281,
                     "endColumn": 110,
-                    "endOffset": 133397
+                    "endOffset": 133387
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11280,9 +11280,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 133402,
+                    "startOffset": 133392,
                     "endColumn": 110,
-                    "endOffset": 133508
+                    "endOffset": 133498
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11299,9 +11299,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 133513,
+                    "startOffset": 133503,
                     "endColumn": 100,
-                    "endOffset": 133609
+                    "endOffset": 133599
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11318,9 +11318,9 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 133614,
+                    "startOffset": 133604,
                     "endColumn": 104,
-                    "endOffset": 133714
+                    "endOffset": 133704
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11337,10 +11337,10 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 133719,
+                    "startOffset": 133709,
                     "endLine": 1671,
                     "endColumn": 12,
-                    "endOffset": 133826
+                    "endOffset": 133816
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11358,10 +11358,10 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 133831,
+                    "startOffset": 133821,
                     "endLine": 1673,
                     "endColumn": 12,
-                    "endOffset": 133956
+                    "endOffset": 133946
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11379,9 +11379,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 133961,
+                    "startOffset": 133951,
                     "endColumn": 90,
-                    "endOffset": 134047
+                    "endOffset": 134037
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11398,9 +11398,9 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 134052,
+                    "startOffset": 134042,
                     "endColumn": 122,
-                    "endOffset": 134170
+                    "endOffset": 134160
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11417,10 +11417,10 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 134175,
+                    "startOffset": 134165,
                     "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 134282
+                    "endOffset": 134272
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11438,9 +11438,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 134287,
+                    "startOffset": 134277,
                     "endColumn": 85,
-                    "endOffset": 134368
+                    "endOffset": 134358
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11457,9 +11457,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 134373,
+                    "startOffset": 134363,
                     "endColumn": 103,
-                    "endOffset": 134472
+                    "endOffset": 134462
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11476,10 +11476,10 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 134477,
+                    "startOffset": 134467,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 134580
+                    "endOffset": 134570
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11497,10 +11497,10 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 134585,
+                    "startOffset": 134575,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 134680
+                    "endOffset": 134670
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11518,10 +11518,10 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 134685,
+                    "startOffset": 134675,
                     "endLine": 1685,
                     "endColumn": 12,
-                    "endOffset": 134798
+                    "endOffset": 134788
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11539,10 +11539,10 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 134803,
+                    "startOffset": 134793,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 134902
+                    "endOffset": 134892
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11560,10 +11560,10 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 134907,
+                    "startOffset": 134897,
                     "endLine": 1689,
                     "endColumn": 12,
-                    "endOffset": 135006
+                    "endOffset": 134996
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11581,10 +11581,10 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 135011,
+                    "startOffset": 135001,
                     "endLine": 1691,
                     "endColumn": 12,
-                    "endOffset": 135132
+                    "endOffset": 135122
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11602,9 +11602,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 135137,
+                    "startOffset": 135127,
                     "endColumn": 87,
-                    "endOffset": 135220
+                    "endOffset": 135210
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11621,9 +11621,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 135225,
+                    "startOffset": 135215,
                     "endColumn": 107,
-                    "endOffset": 135328
+                    "endOffset": 135318
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11640,9 +11640,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 135333,
+                    "startOffset": 135323,
                     "endColumn": 99,
-                    "endOffset": 135428
+                    "endOffset": 135418
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11659,9 +11659,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 135433,
+                    "startOffset": 135423,
                     "endColumn": 89,
-                    "endOffset": 135518
+                    "endOffset": 135508
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11678,9 +11678,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 135523,
+                    "startOffset": 135513,
                     "endColumn": 109,
-                    "endOffset": 135628
+                    "endOffset": 135618
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11697,9 +11697,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 135633,
+                    "startOffset": 135623,
                     "endColumn": 83,
-                    "endOffset": 135712
+                    "endOffset": 135702
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11716,9 +11716,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 135717,
+                    "startOffset": 135707,
                     "endColumn": 83,
-                    "endOffset": 135796
+                    "endOffset": 135786
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11735,9 +11735,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 135801,
+                    "startOffset": 135791,
                     "endColumn": 53,
-                    "endOffset": 135850
+                    "endOffset": 135840
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11754,9 +11754,9 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 135855,
+                    "startOffset": 135845,
                     "endColumn": 63,
-                    "endOffset": 135914
+                    "endOffset": 135904
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11773,9 +11773,9 @@
                 "to": {
                     "startLine": 1701,
                     "startColumn": 4,
-                    "startOffset": 135919,
+                    "startOffset": 135909,
                     "endColumn": 105,
-                    "endOffset": 136020
+                    "endOffset": 136010
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11792,9 +11792,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 136025,
+                    "startOffset": 136015,
                     "endColumn": 109,
-                    "endOffset": 136130
+                    "endOffset": 136120
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11811,9 +11811,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 136135,
+                    "startOffset": 136125,
                     "endColumn": 83,
-                    "endOffset": 136214
+                    "endOffset": 136204
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11830,9 +11830,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 136219,
+                    "startOffset": 136209,
                     "endColumn": 119,
-                    "endOffset": 136334
+                    "endOffset": 136324
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values/values.xml",
@@ -11849,10 +11849,10 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 136339,
+                    "startOffset": 136329,
                     "endLine": 1708,
                     "endColumn": 12,
-                    "endOffset": 136552
+                    "endOffset": 136542
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11870,10 +11870,10 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 136557,
+                    "startOffset": 136547,
                     "endLine": 1714,
                     "endColumn": 12,
-                    "endOffset": 136950
+                    "endOffset": 136940
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11891,10 +11891,10 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 136955,
+                    "startOffset": 136945,
                     "endLine": 1718,
                     "endColumn": 12,
-                    "endOffset": 137157
+                    "endOffset": 137147
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11912,10 +11912,10 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 137162,
+                    "startOffset": 137152,
                     "endLine": 1721,
                     "endColumn": 12,
-                    "endOffset": 137316
+                    "endOffset": 137306
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11933,10 +11933,10 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 137321,
+                    "startOffset": 137311,
                     "endLine": 1730,
                     "endColumn": 12,
-                    "endOffset": 137883
+                    "endOffset": 137873
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11954,10 +11954,10 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 137888,
+                    "startOffset": 137878,
                     "endLine": 1736,
                     "endColumn": 12,
-                    "endOffset": 138244
+                    "endOffset": 138234
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11975,10 +11975,10 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 138249,
+                    "startOffset": 138239,
                     "endLine": 1739,
                     "endColumn": 12,
-                    "endOffset": 138373
+                    "endOffset": 138363
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -11996,10 +11996,10 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 138378,
+                    "startOffset": 138368,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 139117
+                    "endOffset": 139107
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -12017,10 +12017,10 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 139122,
+                    "startOffset": 139112,
                     "endLine": 1753,
                     "endColumn": 12,
-                    "endOffset": 139297
+                    "endOffset": 139287
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -12038,10 +12038,10 @@
                 "to": {
                     "startLine": 1754,
                     "startColumn": 4,
-                    "startOffset": 139302,
+                    "startOffset": 139292,
                     "endLine": 1759,
                     "endColumn": 12,
-                    "endOffset": 139738
+                    "endOffset": 139728
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/values/values.xml",
@@ -12059,10 +12059,10 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 139743,
+                    "startOffset": 139733,
                     "endLine": 1769,
                     "endColumn": 12,
-                    "endOffset": 140310
+                    "endOffset": 140300
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/values/values.xml",
@@ -12080,10 +12080,10 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 140315,
+                    "startOffset": 140305,
                     "endLine": 1778,
                     "endColumn": 12,
-                    "endOffset": 140817
+                    "endOffset": 140807
                 },
                 "from": {
                     "file": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/values/values.xml",
