@@ -13,13 +13,14 @@ import utility.Utility;
 public class WelcomeActivity extends AppCompatActivity implements View.OnClickListener{
 
     private FancyButton registerButton;
-    private EditText businessName;
+    private EditText businessName, businessPhone;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
         businessName = (EditText) findViewById(R.id.businessNameeditText);
+        businessPhone = (EditText) findViewById(R.id.businessPhoneeditText);
         registerButton = (FancyButton) findViewById(R.id.buttonRegister);
         registerButton.setOnClickListener(this);
 
@@ -34,6 +35,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
                     .edit()
                     .putString(Utility.APP_USER, name)
                     .putBoolean(Utility.APP_AUTH, true)
+                    .putLong(Utility.APP_NUMBER, Long.parseLong(businessPhone.getText().toString()))
                     .commit();
             Intent homeintent = new Intent(this, MainActivity.class);
             homeintent.putExtra(Utility.APP_USER, name);

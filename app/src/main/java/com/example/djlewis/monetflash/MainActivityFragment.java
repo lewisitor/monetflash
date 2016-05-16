@@ -1,20 +1,27 @@
 package com.example.djlewis.monetflash;
 
-import android.content.Context;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.telephony.TelephonyManager;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.firebase.client.AuthData;
+import com.firebase.client.Firebase;
+import com.firebase.client.FirebaseError;
 import com.google.gson.JsonObject;
 import com.koushikdutta.async.future.FutureCallback;
 import com.koushikdutta.ion.Ion;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 import cn.pedant.SweetAlert.SweetAlertDialog;
 import mehdi.sakout.fancybuttons.FancyButton;
@@ -131,16 +138,23 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             //payButton action
             case R.id.buttonpay: {
                 //get subscriber's phone number
-                TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
+               // TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
 
-                String clientphone = telephonyManager.getLine1Number();
-                if (clientphone != null){
-                    String clientname = PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_USER,"Unknown Business");
+                String clientphone = PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237");
+                clientphone = new StringBuilder(clientphone).insert(0,"237").toString();
+                final String cphone = clientphone;
+                if (!clientphone.isEmpty() && clientphone.length()>3){
+                    final String clientname = PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_USER,"Unknown Business");
                     final SweetAlertDialog sw = Utility.getInstance(getActivity())
                             .startPaymentDialog(getActivity().getString(R.string.paymentmessage));
                     sw.show();
-                    String amount = paymentAmount.getText().toString().equals("")?"0":paymentAmount.getText().toString();
+                    final String amount = paymentAmount.getText().toString().equals("")?"0":paymentAmount.getText().toString();
                     String customer = phoneNumber.getText().toString().equals("")?"0":phoneNumber.getText().toString();
+
+                    customer = new StringBuilder(customer).insert(0,"237").toString();
+                    final String cust = customer;
+
+                    final Firebase firebaseHandler = new Firebase(Utility.FIREBASE_TRANSACTION_URL);
                     //start async request to request for payment
                     Ion.with(this)
                             .load(Utility.PAYMENT_URL)
@@ -157,11 +171,65 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                         String message ="";
                                         int status = result.get("statuscode").getAsInt();
                                         String msg = result.get("message").getAsString();
+                                        final Map<String ,String> mtransaction = new HashMap<>();
+                                        mtransaction.put("client_name",clientname);
+                                        mtransaction.put("client_number", cphone);
+                                        mtransaction.put("customer_number", cust);
+                                        mtransaction.put("amount", amount);
+                                        mtransaction.put("date", SimpleDateFormat.getDateTimeInstance().format(new Date()));
 
-                                        message = status != 401? getContext().getString(R.string.paymentsuccess):
-                                        getContext().getString(R.string.paymentfailed, msg);
+                                        switch (status){
+                                            case 200:
+                                                message = getContext().getString(R.string.paymentsuccess);
+                                                firebaseHandler.authWithPassword("admin7@monetflash.com", "admin7@monetflash",
+                                                        new Firebase.AuthResultHandler() {
+                                                            @Override
+                                                            public void onAuthenticated(AuthData authData) {
+                                                                firebaseHandler.child("transactions/success").push().setValue(mtransaction);
+                                                            }
+                                                            @Override
+                                                            public void onAuthenticationError(FirebaseError firebaseError) {
+                                                                //authentication failure
+                                                                Log.d("Firebase Auth", "Error -> "+firebaseError.getDetails());
+                                                            }
+                                                        });
+                                                //don't manage to listen for completion callbacks for now
+                                                break;
+                                            case 403:
+                                            case 404:
+                                                firebaseHandler.authWithPassword("admin7@monetflash.com", "admin7@monetflash",
+                                                        new Firebase.AuthResultHandler() {
+                                                    @Override
+                                                    public void onAuthenticated(AuthData authData) {
+                                                        firebaseHandler.child("transactions/error").push().setValue(mtransaction);
+                                                    }
+                                                    @Override
+                                                    public void onAuthenticationError(FirebaseError firebaseError) {
+                                                        Log.d("Firebase Auth", "Error -> "+firebaseError.getDetails());
+                                                    }
+                                                });
 
-                                        Utility.getInstance(getActivity()).stopPaymentDialog(sw, message, status!=401);
+                                                message = getContext().getString(R.string.paymentfailed, msg);
+                                                break;
+                                            default: //failure
+                                                message = "General Failure. Unknown server response";
+                                                firebaseHandler.authWithPassword("admin7@monetflash.com", "admin7@monetflash",
+                                                        new Firebase.AuthResultHandler() {
+                                                    @Override
+                                                    public void onAuthenticated(AuthData authData) {
+                                                        firebaseHandler.child("transactions/error").push().setValue(mtransaction);
+                                                    }
+                                                    @Override
+                                                    public void onAuthenticationError(FirebaseError firebaseError) {
+                                                        Log.d("Firebase Auth", "Error -> "+firebaseError.getDetails());
+                                                    }
+                                                });
+                                                break;
+                                        }
+                                        Log.i("STatus CODE:","code = "+status);
+                                        boolean requestOk = false; if (status == 200) requestOk = true;
+                                        Utility.getInstance(getActivity()).stopPaymentDialog(sw, message,requestOk);
+                                        clearFields();
                                     }else{
                                         //stop the sweetdialog and clear fields
                                         String message = getContext().getString(R.string.paymentfailed, e.getLocalizedMessage());
@@ -208,6 +276,11 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             break;
 
         }
+    }
+
+    private void clearFields() {
+        paymentAmount.setText("");
+        phoneNumber.setText("");
     }
 
     private boolean isFocused(EditText ed){

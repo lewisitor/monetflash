@@ -16,4 +16,6 @@
     <string name="finished">Payment Status</string>
     <string name="paymentfailed">Payment Failed. %s</string>
     <string name="paymentsuccess">Payment Received Successfully</string>
+    <string name="businessphone">Business phone (Mobile Money)</string>
+    <string name="action_history">History</string>
 </resources>

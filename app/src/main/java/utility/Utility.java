@@ -14,10 +14,12 @@ import cn.pedant.SweetAlert.SweetAlertDialog;
 public class Utility {
 
     public static final String PAYMENT_URL = "http://monetflash.iceteck.com/index.php/requestpayment";
+    public static final String FIREBASE_TRANSACTION_URL =  "https://monetflash.firebaseio.com/";
     public static final String PHONE_KEY = "phonenumber";
     public static final String AMOUNT_KEY =  "amount";
     public final static  String APP_USER = "monetflash.app.preference.user";
     public final static String APP_AUTH = "monetflash.app.auth";
+    public final static String APP_NUMBER = "monetflash.app.number";
 
     private Context context;
 
