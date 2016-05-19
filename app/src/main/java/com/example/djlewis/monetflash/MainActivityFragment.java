@@ -6,6 +6,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
@@ -26,7 +27,6 @@ import java.util.Map;
 import cn.pedant.SweetAlert.SweetAlertDialog;
 import mehdi.sakout.fancybuttons.FancyButton;
 import utility.Utility;
-
 /**
  * A placeholder fragment containing a simple view.
  */
@@ -39,6 +39,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
     private EditText phoneNumber;
     private EditText paymentAmount;
     private Button bOne, bTwo, bThree, bFour, bFive, bSix, bSeven, bEight, bNine, bZero; //data entry buttons
+    private MenuItem settings,history;
 
     public MainActivityFragment() {
     }
@@ -71,8 +72,26 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
         buttonPay.setOnClickListener(this);
         buttonBack.setOnClickListener(this);
 
+
+
         return rootView;
     }
+/*
+  @Override
+  public void onCreateOptionsMenu(Menu menu,MenuInflater inflater){
+      settings=(MenuItem) rootView.findViewById(R.id.action_settings);
+      history=(MenuItem) rootView.findViewById(R.id.action_history);
+
+      settings.setOnMenuItemClickListener(new onMenuItemClickListener(){
+          @Override
+          public boolean onMenuItemClick(MenuItem menu){
+    return true;
+          }
+      });
+      super.onCreateOptionsMenu(menu,inflater);
+
+  }
+    */
 
     @Override
     public void onResume() {
@@ -103,6 +122,9 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             paymentAmount.setText(savedInstanceState.getString(Utility.AMOUNT_KEY));
         }
     }
+
+
+
 
     @Override
     public void onClick(View v) {

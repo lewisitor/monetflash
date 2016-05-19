@@ -1,6 +1,7 @@
 package com.example.djlewis.monetflash;
 
 import android.os.Bundle;
+import android.widget.Toast;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -39,11 +40,20 @@ public class MainActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
+    switch (id){
+        case R.id.action_settings:
+            Toast.makeText(this, "Settings is Clicked", Toast.LENGTH_LONG).show();
+            break;
+        case R.id.action_history:
+            Toast.makeText(this, "History is Clicked", Toast.LENGTH_LONG).show();
+            break;
+    }
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+ /*       if (id == R.id.action_settings) {
+            Toast.makeText(this, "Settings is Clicked", Toast.LENGTH_LONG).show();
             return true;
         }
+*/
 
         return super.onOptionsItemSelected(item);
     }

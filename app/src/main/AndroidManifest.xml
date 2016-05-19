@@ -43,7 +43,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-
+        <activity android:name=".HistoryActivity"
+        android:label="MonetFlash - History"
+            >
+    </activity>
         <receiver
             android:name="broadcastlisteners.BootCompleted"
             android:enabled="true"

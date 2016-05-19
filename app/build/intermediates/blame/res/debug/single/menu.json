@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/root/AndroidStudioProjects/monetflash/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/root/AndroidStudioProjects/monetflash/app/src/main/res/menu/menu_main.xml"
+        "merged": "C:\\root\\AndroidStudioProjects\\monetflash\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\root\\AndroidStudioProjects\\monetflash\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\djlewis\\AndroidStudioProjects\\monetflash\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\djlewis\\AndroidStudioProjects\\monetflash\\app\\src\\main\\res\\menu\\menu_main.xml"
     }
 ]
