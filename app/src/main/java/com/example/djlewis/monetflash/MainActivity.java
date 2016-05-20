@@ -1,11 +1,12 @@
 package com.example.djlewis.monetflash;
 
+import android.content.Intent;
 import android.os.Bundle;
-import android.widget.Toast;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -45,7 +46,9 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "Settings is Clicked", Toast.LENGTH_LONG).show();
             break;
         case R.id.action_history:
-            Toast.makeText(this, "History is Clicked", Toast.LENGTH_LONG).show();
+           // Toast.makeText(this, "History is Clicked", Toast.LENGTH_LONG).show();
+            Intent h= new Intent(this,TransactionActivity.class);
+            startActivity(h);
             break;
     }
         //noinspection SimplifiableIfStatement
