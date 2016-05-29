@@ -14,6 +14,7 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="com.example.djlewis.monetflash.app.AppApplication"
@@ -22,6 +23,19 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="DATABASE"
+            android:value="sugar_example.db" />
+        <meta-data
+            android:name="VERSION"
+            android:value="3" />
+        <meta-data
+            android:name="QUERY_LOG"
+            android:value="true" />
+        <meta-data
+            android:name="DOMAIN_PACKAGE_NAME"
+            android:value="com.example.djlewis.monetflash" />
+
         <activity
             android:name="com.example.djlewis.monetflash.MainActivity"
             android:configChanges="keyboardHidden|orientation"
@@ -48,6 +62,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
+
         <!--
     <activity android:name=".HistoryActivity"
         android:label="MonetFlash - History"
@@ -64,6 +79,15 @@
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
         </receiver>
+
+        <activity
+            android:name="com.example.djlewis.monetflash.app.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName="com.example.djlewis.monetflash.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.djlewis.monetflash.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

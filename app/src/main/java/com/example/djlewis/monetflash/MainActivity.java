@@ -8,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.example.djlewis.monetflash.app.SettingsActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -43,7 +45,9 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
     switch (id){
         case R.id.action_settings:
-            Toast.makeText(this, "Settings is Clicked", Toast.LENGTH_LONG).show();
+            //Toast.makeText(this, "Settings is Clicked", Toast.LENGTH_LONG).show();
+            Intent k=new Intent(this,SettingsActivity.class);
+            startActivity(k);
             break;
         case R.id.action_history:
            // Toast.makeText(this, "History is Clicked", Toast.LENGTH_LONG).show();

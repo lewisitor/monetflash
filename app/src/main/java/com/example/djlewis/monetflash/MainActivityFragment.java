@@ -12,6 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 
+import com.example.djlewis.monetflash.app.Transactions;
 import com.firebase.client.AuthData;
 import com.firebase.client.Firebase;
 import com.firebase.client.FirebaseError;
@@ -162,7 +163,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                 //get subscriber's phone number
                // TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
 
-                String clientphone = PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237");
+                String clientphone = String.valueOf(PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237"));
                 clientphone = new StringBuilder(clientphone).insert(0,"237").toString();
                 final String cphone = clientphone;
                 if (!clientphone.isEmpty() && clientphone.length()>3){
@@ -175,6 +176,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
 
                     customer = new StringBuilder(customer).insert(0,"237").toString();
                     final String cust = customer;
+                    final String date_real;
 
                     final Firebase firebaseHandler = new Firebase(Utility.FIREBASE_TRANSACTION_URL);
                     //start async request to request for payment
@@ -191,6 +193,8 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                     if (e == null) {
                                         //show message
                                         String message ="";
+                                        String date_real=SimpleDateFormat.getDateTimeInstance().format(new Date());
+
                                         int status = result.get("statuscode").getAsInt();
                                         String msg = result.get("message").getAsString();
                                         final Map<String ,String> mtransaction = new HashMap<>();
@@ -198,7 +202,9 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                         mtransaction.put("client_number", cphone);
                                         mtransaction.put("customer_number", cust);
                                         mtransaction.put("amount", amount);
-                                        mtransaction.put("date", SimpleDateFormat.getDateTimeInstance().format(new Date()));
+                                        mtransaction.put("date", date_real);
+
+                                        Transactions trans=new Transactions(result.get("tid").getAsInt(),date_real,amount,cust,status);
 
                                         switch (status){
                                             case 200:
@@ -216,6 +222,10 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                                             }
                                                         });
                                                 //don't manage to listen for completion callbacks for now
+                                                //Transactions trans=new Transactions(result.get("tid").getAsInt(),date,amount,customer_number,status);
+
+                                                trans.save();
+
                                                 break;
                                             case 403:
                                             case 404:
@@ -232,6 +242,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                                 });
 
                                                 message = getContext().getString(R.string.paymentfailed, msg);
+                                                trans.save();
                                                 break;
                                             default: //failure
                                                 message = "General Failure. Unknown server response";
@@ -246,6 +257,7 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
                                                         Log.d("Firebase Auth", "Error -> "+firebaseError.getDetails());
                                                     }
                                                 });
+                                                trans.save();
                                                 break;
                                         }
                                         Log.i("STatus CODE:","code = "+status);

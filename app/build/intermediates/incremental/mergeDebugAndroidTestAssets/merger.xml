@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\djlewis\AndroidStudioProjects\monetflash\app\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/lewisitor/Android/studio-projects/special/monetflash/app/src/androidTest/assets"/><source path="/home/lewisitor/Android/studio-projects/special/monetflash/app/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>

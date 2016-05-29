@@ -33,7 +33,7 @@ import java.util.HashMap;
     @Override
     public void onCreate(SQLiteDatabase db){
         db.execSQL(
-                "create table if not exists " +
+                "create table history if not exists " +
                         "(id integer primary key auto-increment,customer text,amount text,date text,trans_id text,status text)"
 
         );
@@ -43,7 +43,7 @@ import java.util.HashMap;
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         // TODO Auto-generated method stub
-        db.execSQL("DROP TABLE IF EXISTS contacts");
+        db.execSQL("DROP TABLE IF EXISTS history");
         onCreate(db);
     }
 

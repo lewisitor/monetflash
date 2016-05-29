@@ -5,32 +5,37 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
+//import com.orm.SugarApp;
+import com.example.djlewis.monetflash.app.Transactions;
+import com.orm.SugarRecord;
 
 import java.util.ArrayList;
+import java.util.List;
 
-import databasehelper.DbHelper;
+//import databasehelper.DbHelper;
 
-public class TransactionActivity extends AppCompatActivity {
+public class TransactionActivity extends AppCompatActivity{
 
     //private ListView listView;
     private ListView obj;
-    DbHelper mydb;//object from database helper package
+  //  DbHelper mydb;//object from database helper package
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_transaction);
 
-        mydb=new DbHelper(this);
-        ArrayList array_list=mydb.getallhistory();
+    //    mydb=new DbHelper(this);
+        //ArrayList array_list=mydb.getallhistory();
+        List<Transactions> list_view= Transactions.listAll(Transactions.class);
         //listView = (ListView) findViewById(R.id.transactionsListView);
 
         //in the advent of elements aren't found in the Database
-        if(array_list.isEmpty()){
+        if(list_view.isEmpty()){
             Toast.makeText(this, "No History Found In Database", Toast.LENGTH_LONG).show();
         }
         else {
-            ArrayAdapter arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, array_list);
+            ArrayAdapter arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, list_view);
             obj=(ListView)findViewById(R.id.transactionsListView);
             obj.setAdapter(arrayAdapter);
 
