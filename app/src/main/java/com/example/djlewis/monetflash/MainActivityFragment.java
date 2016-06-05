@@ -160,10 +160,16 @@ public class MainActivityFragment extends Fragment implements View.OnClickListen
             break;
             //payButton action
             case R.id.buttonpay: {
-                //get subscriber's phone number
-               // TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
 
-                String clientphone = String.valueOf(PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237"));
+
+                /*
+               get subscriber's phone number
+               TelephonyManager telephonyManager = (TelephonyManager) getActivity().getSystemService(Context.TELEPHONY_SERVICE);
+               String clientphone = String.valueOf(PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237"));
+               */
+
+
+                String clientphone = Long.toString(Long.parseLong(PreferenceManager.getDefaultSharedPreferences(getActivity()).getString(Utility.APP_NUMBER, "237")));
                 clientphone = new StringBuilder(clientphone).insert(0,"237").toString();
                 final String cphone = clientphone;
                 if (!clientphone.isEmpty() && clientphone.length()>3){

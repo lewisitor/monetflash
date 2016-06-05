@@ -20,6 +20,7 @@ public class Utility {
     public final static  String APP_USER = "monetflash.app.preference.user";
     public final static String APP_AUTH = "monetflash.app.auth";
     public final static String APP_NUMBER = "monetflash.app.number";
+   //public final static long APP_NUMBER = Long.parseLong("monetflash.app.number");
 
     private Context context;
 

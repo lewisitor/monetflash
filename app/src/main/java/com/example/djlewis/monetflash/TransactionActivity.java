@@ -27,7 +27,8 @@ public class TransactionActivity extends AppCompatActivity{
 
     //    mydb=new DbHelper(this);
         //ArrayList array_list=mydb.getallhistory();
-        List<Transactions> list_view= Transactions.listAll(Transactions.class);
+                    //        List<Transactions> list_view= Transactions.listAll(Transactions.class);
+        List<Transactions> list_view=Transactions.findWithQuery(Transactions.class,"Select * from Transactions","order by date");
         //listView = (ListView) findViewById(R.id.transactionsListView);
 
         //in the advent of elements aren't found in the Database
