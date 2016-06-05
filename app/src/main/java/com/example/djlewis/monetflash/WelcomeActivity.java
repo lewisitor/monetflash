@@ -31,11 +31,15 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
         if (v.getId() == R.id.buttonRegister){
             //save business name and setup preferences
             String name = businessName.getText().toString();
+            String phone_num=businessPhone.getText().toString();
+        Long phone_long=Long.valueOf(phone_num);
+
             PreferenceManager.getDefaultSharedPreferences(this)
                     .edit()
                     .putString(Utility.APP_USER, name)
                     .putBoolean(Utility.APP_AUTH, true)
-                    .putLong(Utility.APP_NUMBER, Long.parseLong(businessPhone.getText().toString()))
+            //        .putLong(Utility.APP_NUMBER, Long.parseLong(businessPhone.getText().toString()))
+                    .putLong(Utility.APP_NUMBER, phone_long)
                     .commit();
             Intent homeintent = new Intent(this, MainActivity.class);
             homeintent.putExtra(Utility.APP_USER, name);
